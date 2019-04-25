@@ -18,7 +18,7 @@
 - [Server Side Swift](#server-side-swift)
 
 ## Architecture
-- *App Architecture* by Chris Eidhof, Matt Gallagher, and Florian Kugler (objc.io)  (https://www.objc.io/books/app-architecture)
+- [*App Architecture* by Chris Eidhof, Matt Gallagher, and Florian Kugler (objc.io)](https://www.objc.io/books/app-architecture)
 
 ## Other Awesome Lists
 - [awesome-ios](https://github.com/vsouza/awesome-ios)
