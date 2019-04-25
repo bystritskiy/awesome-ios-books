@@ -4,9 +4,9 @@
 
 ## Table of Contents
 - [Swift](#swift)
-- [RxSwift](#rx-swift)
+- [Functional Swift](#functional-swift)
 - [UI](#ui)
-- [Architecture Patterns](#architecture-patterns)
+- [Architecture](#architecture)
 - [Multithreading](#multithreading)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [CoreData](#coredata)
@@ -16,6 +16,9 @@
 - [Network](#network)
 - [Testing](#testing)
 - [Server Side Swift](#server-side-swift)
+
+## Architecture
+- *App Architecture* by Chris Eidhof, Matt Gallagher, and Florian Kugler (objc.io)  (https://www.objc.io/books/app-architecture)
 
 ## Other Awesome Lists
 - [awesome-ios](https://github.com/vsouza/awesome-ios)
