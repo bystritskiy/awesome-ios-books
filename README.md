@@ -17,6 +17,9 @@
 - [Testing](#testing)
 - [Server Side Swift](#server-side-swift)
 
+## Swift
+- [*Advanced Swift* by Chris Eidhof, Ole Begemann, and Airspeed Velocity (objc.io)](https://www.objc.io/books/advanced-swift/)
+
 ## Architecture
 - [*App Architecture* by Chris Eidhof, Matt Gallagher, and Florian Kugler (objc.io)](https://www.objc.io/books/app-architecture)
 
