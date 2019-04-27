@@ -23,6 +23,9 @@
 ## Architecture
 - [*App Architecture* by Chris Eidhof, Matt Gallagher, and Florian Kugler (objc.io)](https://www.objc.io/books/app-architecture)
 
+## Realm
+- [*Realm: Building Modern Swift Apps with Realm Database* by Marin Todorov](https://store.raywenderlich.com/products/realm-building-modern-swift-apps-with-realm-database)
+
 ## Other Awesome Lists
 - [awesome-ios](https://github.com/vsouza/awesome-ios)
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift)
