@@ -23,6 +23,9 @@
 ## Functional Swift
 - [*Functional Swift* by Chris Eidhof, Florian Kugler, and Wouter Swierstra (objc.io)](https://www.objc.io/books/functional-swift)
 
+## Data Structures and Algorithms
+- [*Data Structures and Algorithms* by Kelvin Lau, and Vincent Ngo](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift)
+
 ## Architecture
 - [*App Architecture* by Chris Eidhof, Matt Gallagher, and Florian Kugler (objc.io)](https://www.objc.io/books/app-architecture)
 
