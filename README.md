@@ -18,16 +18,17 @@
 - [Server Side Swift](#server-side-swift)
 
 ## Swift
-- [*Advanced Swift* by Chris Eidhof, Ole Begemann, and Airspeed Velocity (objc.io)](https://www.objc.io/books/advanced-swift)
+- [*Advanced Swift* by Chris Eidhof, Ole Begemann, and Airspeed Velocity](https://www.objc.io/books/advanced-swift)
 
 ## Functional Swift
-- [*Functional Swift* by Chris Eidhof, Florian Kugler, and Wouter Swierstra (objc.io)](https://www.objc.io/books/functional-swift)
+- [*Functional Swift* by Chris Eidhof, Florian Kugler, and Wouter Swierstra](https://www.objc.io/books/functional-swift)
+
+## Architecture
+- [*App Architecture* by Chris Eidhof, Matt Gallagher, and Florian Kugler](https://www.objc.io/books/app-architecture)
+- [*Advanced iOS App Architecture* by Rene Cacheaux, Josh Berlin](https://store.raywenderlich.com/products/advanced-ios-app-architecture)
 
 ## Data Structures and Algorithms
 - [*Data Structures and Algorithms* by Kelvin Lau, and Vincent Ngo](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift)
-
-## Architecture
-- [*App Architecture* by Chris Eidhof, Matt Gallagher, and Florian Kugler (objc.io)](https://www.objc.io/books/app-architecture)
 
 ## Realm
 - [*Realm: Building Modern Swift Apps with Realm Database* by Marin Todorov](https://store.raywenderlich.com/products/realm-building-modern-swift-apps-with-realm-database)
