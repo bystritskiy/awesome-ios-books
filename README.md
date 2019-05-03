@@ -33,6 +33,9 @@
 ## Realm
 - [*Realm: Building Modern Swift Apps with Realm Database* by Marin Todorov](https://store.raywenderlich.com/products/realm-building-modern-swift-apps-with-realm-database)
 
+## Server Side Swift
+- [*Server Side Swift with Vapor* by Tim Condon, Tanner Nelson, Jonas Schwartz, Logan Wright](https://store.raywenderlich.com/products/server-side-swift-with-vapor)
+
 ## Other Awesome Lists
 - [awesome-ios](https://github.com/vsouza/awesome-ios)
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift)
