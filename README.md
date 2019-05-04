@@ -35,6 +35,7 @@
 
 ## Server Side Swift
 - [*Server Side Swift with Vapor* by Tim Condon, Tanner Nelson, Jonas Schwartz, Logan Wright](https://store.raywenderlich.com/products/server-side-swift-with-vapor)
+- [*Server Side Swift with Kitura* by David Okun, Chris Bailey](https://store.raywenderlich.com/products/server-side-swift-with-kitura)
 
 ## Other Awesome Lists
 - [awesome-ios](https://github.com/vsouza/awesome-ios)
