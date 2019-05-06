@@ -9,7 +9,7 @@
 - [Architecture](#architecture)
 - [Multithreading](#multithreading)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
-- [CoreData](#coredata)
+- [Core Data](#core-data)
 - [Realm](#realm)
 - [Game Development](#game-development)
 - [Hardware](#hardware)
@@ -30,6 +30,9 @@
 
 ## Data Structures and Algorithms
 - [*Data Structures and Algorithms* by Kelvin Lau, and Vincent Ngo](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift)
+
+## Core Data
+- [*Core Data* by Florian Kugler and Daniel Eggert](https://www.objc.io/books/core-data/)
 
 ## Realm
 - [*Realm: Building Modern Swift Apps with Realm Database* by Marin Todorov](https://store.raywenderlich.com/products/realm-building-modern-swift-apps-with-realm-database)
