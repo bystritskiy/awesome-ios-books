@@ -20,6 +20,7 @@
 ## Swift
 - [*Swift Apprentice* by Ehab Amer, Alexis Gallagher, Matt Galloway, Eli Ganim, Ben Morrow, Cosmin Pupaza, Steven Van Impe](https://store.raywenderlich.com/products/swift-apprentice)
 - [*Advanced Swift* by Chris Eidhof, Ole Begemann, and Airspeed Velocity](https://www.objc.io/books/advanced-swift)
+- [*Optimizing Collections* by Károly Lőrentey](https://www.objc.io/books/optimizing-collections/)
 
 ## Functional Swift
 - [*Functional Swift* by Chris Eidhof, Florian Kugler, and Wouter Swierstra](https://www.objc.io/books/functional-swift)
