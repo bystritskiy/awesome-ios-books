@@ -25,6 +25,9 @@
 ## Functional Swift
 - [*Functional Swift* by Chris Eidhof, Florian Kugler, and Wouter Swierstra](https://www.objc.io/books/functional-swift)
 
+## UI
+- [*iOS Animations by Tutorials* by Marin Todorov](https://store.raywenderlich.com/products/ios-animations-by-tutorials)
+
 ## Architecture
 - [*App Architecture* by Chris Eidhof, Matt Gallagher, and Florian Kugler](https://www.objc.io/books/app-architecture)
 - [*Advanced iOS App Architecture* by Rene Cacheaux, Josh Berlin](https://store.raywenderlich.com/products/advanced-ios-app-architecture)
