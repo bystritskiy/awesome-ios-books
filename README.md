@@ -3,6 +3,7 @@
 > Directory of iOS books
 
 ## Table of Contents
+- [iOS](#ios)
 - [Swift](#swift)
 - [Functional Swift](#functional-swift)
 - [UI](#ui)
@@ -16,6 +17,9 @@
 - [Network](#network)
 - [Testing](#testing)
 - [Server Side Swift](#server-side-swift)
+
+## iOS
+- [*iOS Apprentice* by Matthijs Hollemans, Fahim Farook](https://store.raywenderlich.com/products/swift-apprentice)
 
 ## Swift
 - [*Swift Apprentice* by Ehab Amer, Alexis Gallagher, Matt Galloway, Eli Ganim, Ben Morrow, Cosmin Pupaza, Steven Van Impe](https://store.raywenderlich.com/products/swift-apprentice)
