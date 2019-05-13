@@ -40,10 +40,13 @@
 - [*Data Structures and Algorithms* by Kelvin Lau, and Vincent Ngo](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift)
 
 ## Core Data
-- [*Core Data* by Florian Kugler and Daniel Eggert](https://www.objc.io/books/core-data/)
+- [*Core Data* by Florian Kugler, and Daniel Eggert](https://www.objc.io/books/core-data/)
 
 ## Realm
 - [*Realm: Building Modern Swift Apps with Realm Database* by Marin Todorov](https://store.raywenderlich.com/products/realm-building-modern-swift-apps-with-realm-database)
+
+## Testing
+- [*iOS Test-Driven Development by Tutorials* by Joshua Greene, and Mike Katz](https://store.raywenderlich.com/products/ios-test-driven-development)
 
 ## Server Side Swift
 - [*Server Side Swift with Vapor* by Tim Condon, Tanner Nelson, Jonas Schwartz, Logan Wright](https://store.raywenderlich.com/products/server-side-swift-with-vapor)
