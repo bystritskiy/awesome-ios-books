@@ -13,6 +13,7 @@
 - [Core Data](#core-data)
 - [Realm](#realm)
 - [Machine Learning](#machine-learning)
+- [Metal](#metal)
 - [Game Development](#game-development)
 - [Hardware](#hardware)
 - [Network](#network)
@@ -49,6 +50,9 @@
 
 ## Machine Learning
 - [*Machine Learning by Tutorials* by Matthijs Hollemans, Audrey Tam, Chris LaPollo](https://store.raywenderlich.com/products/machine-learning-by-tutorials)
+
+## Metal
+- [*Metal by Tutorials* by Caroline Begbie, Marius Horga](https://store.raywenderlich.com/products/metal-by-tutorials)
 
 ## Testing
 - [*iOS Test-Driven Development by Tutorials* by Joshua Greene, Mike Katz](https://store.raywenderlich.com/products/ios-test-driven-development)
