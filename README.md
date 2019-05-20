@@ -39,6 +39,7 @@
 ## Architecture
 - [*App Architecture* by Chris Eidhof, Matt Gallagher, Florian Kugler](https://www.objc.io/books/app-architecture)
 - [*Advanced iOS App Architecture* by Rene Cacheaux, Josh Berlin](https://store.raywenderlich.com/products/advanced-ios-app-architecture)
+- [*Design Patterns by Tutorials* by Joshua Greene, Jay Strawn](https://store.raywenderlich.com/products/design-patterns-by-tutorials)
 
 ## Data Structures and Algorithms
 - [*Data Structures and Algorithms* by Kelvin Lau, Vincent Ngo](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift)
