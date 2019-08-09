@@ -7,6 +7,7 @@
 - [Swift](#swift)
 - [Functional Swift](#functional-swift)
 - [UI](#ui)
+- [SwiftUI](#swiftui)
 - [Architecture](#architecture)
 - [Multithreading](#multithreading)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
@@ -38,6 +39,9 @@
 
 ## UI
 - [*iOS Animations by Tutorials* by Marin Todorov](https://store.raywenderlich.com/products/ios-animations-by-tutorials)
+
+## SwiftUI
+- [*SwiftUI by Tutorials* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/swiftui-by-tutorials)
 
 ## Architecture
 - [*App Architecture* by Chris Eidhof, Matt Gallagher, Florian Kugler](https://www.objc.io/books/app-architecture)
