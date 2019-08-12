@@ -44,6 +44,7 @@
 
 ## SwiftUI
 - [*SwiftUI by Tutorials* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/swiftui-by-tutorials)
+- [*SwiftUI by Example* by Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui)
 
 ## Architecture
 - [*App Architecture* by Chris Eidhof, Matt Gallagher, Florian Kugler](https://www.objc.io/books/app-architecture)
