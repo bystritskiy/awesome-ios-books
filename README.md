@@ -4,6 +4,7 @@
 
 ## Table of Contents
 - [iOS](#ios)
+- [Objective-C](#objective-c)
 - [Swift](#swift)
 - [Functional Swift](#functional-swift)
 - [UI](#ui)
@@ -29,6 +30,8 @@
 - [*iOS 12 Programming Fundamentals with Swifte* by Matt Neuburg](https://www.amazon.com/iOS-12-Programming-Fundamentals-Swift/dp/1492044555/)
 - [*Intermediate iOS 12 Programming with Swift* by Simon Ng](https://www.appcoda.com/intermediate-swift-programming-book/)
 
+## Objective-C
+- [*Objective-C for Absolute Beginners* by Gary Bennett, Mitchell Fisher, Brad Lees](https://www.amazon.com/Objective-C-Absolute-Beginners-iPhone-Programming/dp/1430236531)
 
 ## Swift
 - [*Swift Apprentice* by Ehab Amer, Alexis Gallagher, Matt Galloway, Eli Ganim, Ben Morrow, Cosmin Pupaza, Steven Van Impe](https://store.raywenderlich.com/products/swift-apprentice)
