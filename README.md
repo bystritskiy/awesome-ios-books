@@ -36,6 +36,7 @@
 ## Swift
 - [*Swift Apprentice* by Ehab Amer, Alexis Gallagher, Matt Galloway, Eli Ganim, Ben Morrow, Cosmin Pupaza, Steven Van Impe](https://store.raywenderlich.com/products/swift-apprentice)
 - [*Advanced Swift* by Chris Eidhof, Ole Begemann, and Airspeed Velocity](https://www.objc.io/books/advanced-swift)
+- [*Pro Swift* by Paul Hudson](https://www.hackingwithswift.com/store/pro-swift)
 - [*Mastering Swift 5* by Jon Hoffman](https://www.amazon.com/Mastering-Swift-latest-programming-language/dp/1789139864)
 - [*Optimizing Collections* by Károly Lőrentey](https://www.objc.io/books/optimizing-collections/)
 
