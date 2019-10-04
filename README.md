@@ -68,6 +68,7 @@
 - [*Realm: Building Modern Swift Apps with Realm Database* by Marin Todorov](https://store.raywenderlich.com/products/realm-building-modern-swift-apps-with-realm-database)
 
 ## ARkit
+- [*Beginning ARKit for iPhone and iPad* by Wallace Wang](https://www.amazon.com/Beginning-ARKit-iPhone-iPad-Development/dp/1484241010)
 - [*ARKit by Tutorials* by Chris Language, Namrata Bandekar, Antonio Bello, Tammy Coron](https://store.raywenderlich.com/products/arkit-by-tutorials)
 
 ## Machine Learning
