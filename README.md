@@ -67,6 +67,7 @@
 - [*Data Structures and Algorithms* by Kelvin Lau, Vincent Ngo](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift)
 
 ## Core Data
+- [*Core Data by Tutorials* by Aaron Douglas, Saul Mora, Matthew Morey, Pietro Rea](https://store.raywenderlich.com/products/core-data-by-tutorials)
 - [*Core Data* by Florian Kugler, Daniel Eggert](https://www.objc.io/books/core-data/)
 
 ## Realm
@@ -85,7 +86,6 @@
 ## Testing
 - [*iOS Test-Driven Development by Tutorials* by Joshua Greene, Mike Katz](https://store.raywenderlich.com/products/ios-test-driven-development)
 - [*Testing Swift* by Paul Hudson](https://www.hackingwithswift.com/store/testing-swift)
-
 
 ## watchOS
 - [*watchOS by Tutorials* by Ehab Amer, Scott Atkinson, Soheil Azarpour, Matthew Morey, Ben Morrow, Audrey Tam, Jack Wu](https://store.raywenderlich.com/products/watchos-by-tutorials)
