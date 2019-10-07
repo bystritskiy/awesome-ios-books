@@ -2,7 +2,11 @@
 
 > Directory of iOS books
 
-## Table of Contents
+## How to Use
+- Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
+- Go through our *Content Menu*
+
+## Content Menu
 - [iOS](#ios)
 - [Objective-C](#objective-c)
 - [Swift](#swift)
