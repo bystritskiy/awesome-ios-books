@@ -31,6 +31,7 @@
 - [Server Side Swift](#server-side-swift)
 
 ## iOS
+- [*Beginning iPhone Development with Swift 5* by Wallace Wang](https://www.amazon.com/Beginning-iPhone-Development-Swift-Exploring/dp/1484248643/ref=sr_1_14?keywords=Wallace+Wang&qid=1570780866&sr=8-14)
 - [*iOS Apprentice* by Matthijs Hollemans, Fahim Farook](https://store.raywenderlich.com/products/swift-apprentice)
 - [*iOS 12 Programming Fundamentals with Swifte* by Matt Neuburg](https://www.amazon.com/iOS-12-Programming-Fundamentals-Swift/dp/1492044555/)
 - [*Intermediate iOS 12 Programming with Swift* by Simon Ng](https://www.appcoda.com/intermediate-swift-programming-book/)
