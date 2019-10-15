@@ -99,6 +99,8 @@
 - [*tvOS Apprentice* by  Christine Abernathy, Jawwad Ahmad, Chris Belanger, Eric Cerney, Josh Greene, Michael Katz, Kelvin Lau, Adrian Strahan](https://store.raywenderlich.com/products/tvos-apprentice)
 
 ## Server Side Swift
+- [*Server-Side Swift (Vapor Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
+- [*Server-Side Swift (Kitura Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
 - [*Server Side Swift with Vapor* by Tim Condon, Tanner Nelson, Jonas Schwartz, Logan Wright](https://store.raywenderlich.com/products/server-side-swift-with-vapor)
 - [*Server Side Swift with Kitura* by David Okun, Chris Bailey](https://store.raywenderlich.com/products/server-side-swift-with-kitura)
 
