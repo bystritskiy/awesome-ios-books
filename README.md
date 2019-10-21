@@ -1,6 +1,10 @@
-# Awesome iOS Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome iOS Books
 
 > Directory of iOS books
+
+| Awesome | Books | Last updated |
+| :-: | :-: | :-: |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 36 | October 21, 2019
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
