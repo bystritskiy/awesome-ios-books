@@ -50,7 +50,7 @@
 - [*Pro Swift* by Paul Hudson](https://www.hackingwithswift.com/store/pro-swift)
 - [*Mastering Swift 5* by Jon Hoffman](https://www.amazon.com/Mastering-Swift-latest-programming-language/dp/1789139864)
 - [*Optimizing Collections* by Károly Lőrentey](https://www.objc.io/books/optimizing-collections/)
-- [*Practical AI with Swift * by Mars Geldard, Jonathon Manning, Paris Buttfield-Addison, Tim Nugent](https://aiwithswift.com/book/)
+- [*Practical AI with Swift* by Mars Geldard, Jonathon Manning, Paris Buttfield-Addison, Tim Nugent](https://aiwithswift.com/book/)
 
 ## Functional Swift
 - [*Functional Swift* by Chris Eidhof, Florian Kugler, Wouter Swierstra](https://www.objc.io/books/functional-swift)
