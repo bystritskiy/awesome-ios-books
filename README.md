@@ -26,7 +26,7 @@
 - [Machine Learning](#machine-learning)
 - [Metal](#metal)
 - [Game Development](#game-development)
-- [Hardware](#hardware)
+- [Reverse Engineering](#reverse-engineering)
 - [Network](#network)
 - [Testing](#testing)
 - [watchOS](#watchos)
@@ -91,6 +91,9 @@
 
 ## Metal
 - [*Metal by Tutorials* by Caroline Begbie, Marius Horga](https://store.raywenderlich.com/products/metal-by-tutorials)
+
+## Reverse Engineering
+- [*Advanced Apple Debugging & Reverse Engineering* by Derek Selander](https://store.raywenderlich.com/products/advanced-apple-debugging-and-reverse-engineering)
 
 ## Testing
 - [*iOS Test-Driven Development by Tutorials* by Joshua Greene, Mike Katz](https://store.raywenderlich.com/products/ios-test-driven-development)
