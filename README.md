@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 40 | December 16, 2019
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 41 | December 19, 2019
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -38,6 +38,7 @@
 - [*iOS Apprentice* by Matthijs Hollemans, Fahim Farook](https://store.raywenderlich.com/products/swift-apprentice)
 - [*iOS 12 Programming Fundamentals with Swifte* by Matt Neuburg](https://www.amazon.com/iOS-12-Programming-Fundamentals-Swift/dp/1492044555/)
 - [*Intermediate iOS 12 Programming with Swift* by Simon Ng](https://www.appcoda.com/intermediate-swift-programming-book/)
+- [*Programming iOS 13* by Matt Neuburg](http://shop.oreilly.com/product/0636920310075.do)
 - [*Pro iPhone Development with Swift 5* by Wallace Wang](https://www.apress.com/gp/book/9781484249437)
 
 ## Objective-C
