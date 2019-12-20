@@ -115,3 +115,7 @@
 ## Other Awesome Lists
 - [awesome-ios](https://github.com/vsouza/awesome-ios)
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift)
+
+## Contributing and License
+- [See the guide](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+- Distributed under the MIT license. See LICENSE for more information.
