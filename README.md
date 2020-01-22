@@ -57,6 +57,7 @@
 - [*Functional Swift* by Chris Eidhof, Florian Kugler, Wouter Swierstra](https://www.objc.io/books/functional-swift)
 
 ## UI
+- [*Modern Auto Layout* by Keith Harrison](https://gum.co/albook)
 - [*iOS Animations by Tutorials* by Marin Todorov](https://store.raywenderlich.com/products/ios-animations-by-tutorials)
 
 ## SwiftUI
