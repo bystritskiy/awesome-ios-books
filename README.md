@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 44 | January 22, 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 45 | January 24, 2020
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -79,6 +79,7 @@
 
 ## Data Structures and Algorithms
 - [*Data Structures and Algorithms* by Kelvin Lau, Vincent Ngo](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift)
+- [*Swift Algorithms & Data Structures* by Wayne Bishop](https://www.waynewbishop.com/ios-interview/book)
 
 ## Database
 - [*Core Data by Tutorials* by Aaron Douglas, Saul Mora, Matthew Morey, Pietro Rea](https://store.raywenderlich.com/products/core-data-by-tutorials)
