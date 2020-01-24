@@ -79,6 +79,7 @@
 
 ## Data Structures and Algorithms
 - [*Data Structures and Algorithms* by Kelvin Lau, Vincent Ngo](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift)
+- [*Swift Algorithms & Data Structures* by Wayne Bishop](https://www.waynewbishop.com/ios-interview/book)
 
 ## Database
 - [*Core Data by Tutorials* by Aaron Douglas, Saul Mora, Matthew Morey, Pietro Rea](https://store.raywenderlich.com/products/core-data-by-tutorials)
