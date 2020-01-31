@@ -108,7 +108,8 @@
 - [*watchOS by Tutorials* by Ehab Amer, Scott Atkinson, Soheil Azarpour, Matthew Morey, Ben Morrow, Audrey Tam, Jack Wu](https://store.raywenderlich.com/products/watchos-by-tutorials)
 
 ## tvOS
-- [*tvOS Apprentice* by  Christine Abernathy, Jawwad Ahmad, Chris Belanger, Eric Cerney, Josh Greene, Michael Katz, Kelvin Lau, Adrian Strahan](https://store.raywenderlich.com/products/tvos-apprentice)
+- [*tvOS Apprentice* by Christine Abernathy, Jawwad Ahmad, Chris Belanger, Eric Cerney, Josh Greene, Michael Katz, Kelvin Lau, Adrian Strahan](https://store.raywenderlich.com/products/tvos-apprentice)
+- [*Developing for Apple TV using tvOS and Swift* by Gary Bennett, Brad Lees, Stefan Kaczmarek](https://www.apress.com/gp/book/9781484217146)
 
 ## Server Side Swift
 - [*Server-Side Swift (Vapor Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
