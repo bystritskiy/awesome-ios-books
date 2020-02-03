@@ -86,7 +86,7 @@
 - [*Core Data by Tutorials* by Aaron Douglas, Saul Mora, Matthew Morey, Pietro Rea](https://store.raywenderlich.com/products/core-data-by-tutorials)
 - [*Core Data* by Florian Kugler, Daniel Eggert](https://www.objc.io/books/core-data/)
 - [*Realm: Building Modern Swift Apps with Realm Database* by Marin Todorov](https://store.raywenderlich.com/products/realm-building-modern-swift-apps-with-realm-database)
-- [*Build iOS Database Apps with Swift and SQLite* by David Kopec](https://www.amazon.com/Build-Database-Apps-Swift-SQLite-ebook/dp/B01MRKN6H6)
+- [*Build iOS Database Apps with Swift and SQLite* by Kevin Languedoc](https://www.amazon.com/Build-Database-Apps-Swift-SQLite-ebook/dp/B01MRKN6H6)
 
 ## ARkit
 - [*Beginning ARKit for iPhone and iPad* by Wallace Wang](https://www.amazon.com/Beginning-ARKit-iPhone-iPad-Development/dp/1484241010)
