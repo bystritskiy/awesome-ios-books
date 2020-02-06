@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 47 | February 3, 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 48 | February 6, 2020
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -44,6 +44,7 @@
 
 ## Objective-C
 - [*Objective-C for Absolute Beginners* by Gary Bennett, Mitchell Fisher, Brad Lees](https://www.amazon.com/Objective-C-Absolute-Beginners-iPhone-Programming/dp/1430236531)
+- [*Objective-C for Swift Developers* by Paul Hudson](https://www.hackingwithswift.com/store/objective-c-for-swift-developers)
 
 ## Swift
 - [*Swift Apprentice* by Ehab Amer, Alexis Gallagher, Matt Galloway, Eli Ganim, Ben Morrow, Cosmin Pupaza, Steven Van Impe](https://store.raywenderlich.com/products/swift-apprentice)
