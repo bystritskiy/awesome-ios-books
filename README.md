@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 53 | May 16, 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 54 | May 17, 2020
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -75,6 +75,7 @@
 - [*Combine: Asynchronous Programming with Swift* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift)
 
 ## Architecture
+- [*The Clean Swift Handbook* by Raymond Law](https://clean-swift.com/handbook)
 - [*App Architecture* by Chris Eidhof, Matt Gallagher, Florian Kugler](https://www.objc.io/books/app-architecture)
 - [*Advanced iOS App Architecture* by Rene Cacheaux, Josh Berlin](https://store.raywenderlich.com/products/advanced-ios-app-architecture)
 - [*Design Patterns by Tutorials* by Joshua Greene, Jay Strawn](https://store.raywenderlich.com/products/design-patterns-by-tutorials)
