@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 56 | May 19, 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 57 | May 202, 2020
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -107,6 +107,7 @@
 
 ## Game Development
 - [*3D Apple Games by Tutorials* by Chris Language](https://store.raywenderlich.com/products/3d-apple-games-by-tutorials)
+- [*2D Apple Games by Tutorials* by Caroline Begbie, Mike Berg, Michael Briscoe, Ali Hafizji, Marin Todorov, Ray Wenderlich](https://store.raywenderlich.com/products/3d-apple-games-by-tutorials)
 
 ## Reverse Engineering
 - [*Advanced Apple Debugging & Reverse Engineering* by Derek Selander](https://store.raywenderlich.com/products/advanced-apple-debugging-and-reverse-engineering)
