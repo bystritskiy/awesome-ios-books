@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 57 | May 20, 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 58 | May 21, 2020
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -43,6 +43,7 @@
 - [*Programming iOS 13* by Matt Neuburg](http://shop.oreilly.com/product/0636920310075.do)
 - [*Pro iPhone Development with Swift 5* by Wallace Wang](https://www.apress.com/gp/book/9781484249437)
 - [*NSHipster: Obscure Topics in Objective-C, Swift, and Cocoa* by NSHipster](https://gumroad.com/l/nshipster-third-edition)
+- [*Push Notifications by Tutorials* by Scott Grosch, Marin Bencevic, Shai Mishali](https://store.raywenderlich.com/products/push-notifications-by-tutorials)
 
 ## Objective-C
 - [*Objective-C for Absolute Beginners* by Gary Bennett, Mitchell Fisher, Brad Lees](https://www.amazon.com/Objective-C-Absolute-Beginners-iPhone-Programming/dp/1430236531)
