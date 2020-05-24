@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 59 | May 23, 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 59 | May 24, 2020
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -31,6 +31,7 @@
 - [Testing](#testing)
 - [watchOS](#watchos)
 - [tvOS](#tvos)
+- [macOS](#macos)
 - [Server Side Swift](#server-side-swift)
 - [Interview](#interview)
 - [🇷🇺Russian books](#russian-books)
@@ -116,6 +117,8 @@
 ## Reverse Engineering
 - [*Advanced Apple Debugging & Reverse Engineering* by Derek Selander](https://store.raywenderlich.com/products/advanced-apple-debugging-and-reverse-engineering)
 
+## Network
+
 ## Testing
 - [*iOS Test-Driven Development by Tutorials* by Joshua Greene, Mike Katz](https://store.raywenderlich.com/products/ios-test-driven-development)
 - [*Testing Swift* by Paul Hudson](https://www.hackingwithswift.com/store/testing-swift)
@@ -126,6 +129,8 @@
 ## tvOS
 - [*tvOS Apprentice* by Christine Abernathy, Jawwad Ahmad, Chris Belanger, Eric Cerney, Josh Greene, Michael Katz, Kelvin Lau, Adrian Strahan](https://store.raywenderlich.com/products/tvos-apprentice)
 - [*Developing for Apple TV using tvOS and Swift* by Gary Bennett, Brad Lees, Stefan Kaczmarek](https://www.apress.com/gp/book/9781484217146)
+
+## macOS
 
 ## Server Side Swift
 - [*Practical Server Side Swift* by Tibor Bödecs](https://gumroad.com/l/practical-server-side-swift)
