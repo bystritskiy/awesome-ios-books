@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 59 | May 24, 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 60 | June 1, 2020
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -118,6 +118,7 @@
 - [*Advanced Apple Debugging & Reverse Engineering* by Derek Selander](https://store.raywenderlich.com/products/advanced-apple-debugging-and-reverse-engineering)
 
 ## Network
+- [*Guide to Swift Codable* by Flight School (Matt)](https://flight.school/books/codable/)
 
 ## Testing
 - [*iOS Test-Driven Development by Tutorials* by Joshua Greene, Mike Katz](https://store.raywenderlich.com/products/ios-test-driven-development)
