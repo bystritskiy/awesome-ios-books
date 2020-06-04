@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 62 | June 3, 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 63 | June 4, 2020
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -113,6 +113,7 @@
 - [*Metal by Tutorials* by Caroline Begbie, Marius Horga](https://store.raywenderlich.com/products/metal-by-tutorials)
 
 ## Game Development
+- [*Dive Into SpriteKit* by Paul Hudson](https://www.hackingwithswift.com/store/dive-into-spritekit)
 - [*3D Apple Games by Tutorials* by Chris Language](https://store.raywenderlich.com/products/3d-apple-games-by-tutorials)
 - [*2D Apple Games by Tutorials* by Caroline Begbie, Mike Berg, Michael Briscoe, Ali Hafizji, Marin Todorov, Ray Wenderlich](https://store.raywenderlich.com/products/3d-apple-games-by-tutorials)
 
