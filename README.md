@@ -34,7 +34,7 @@
 - [macOS](#macos)
 - [Server Side Swift](#server-side-swift)
 - [Interview](#interview)
-- [🇷🇺Russian books](#russian-books)
+- [🇷🇺 Russian books](#russian-books)
 
 
 ## iOS
@@ -148,7 +148,7 @@
 ## Interview
 - [*The iOS Interview Guide* by Alex Bush](https://iosinterviewguide.com/)
 
-## Russian books
+## 🇷🇺 Russian books
 - [*Язык Swift. Самоучитель* - Айк Харазян](https://www.ozon.ru/context/detail/id/33701486/)
 - [*Swift подробно* - Инт Чейрд](https://www.ozon.ru/context/detail/id/159640468/)
 - [*Swift. Основы разработки приложений под iOS, iPadOS и macOS* - Усов Василий](https://www.ozon.ru/context/detail/id/159759961/)
