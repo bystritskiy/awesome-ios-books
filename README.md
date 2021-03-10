@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 67 | June 10, 2020
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 68 | March 10, 2021
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -126,6 +126,7 @@
 
 ## Testing
 - [*iOS Test-Driven Development by Tutorials* by Joshua Greene, Mike Katz](https://store.raywenderlich.com/products/ios-test-driven-development)
+- [*Test-Driven iOS Development with Swift 4* by Dr. Dominik Hauser](https://www.amazon.com/gp/product/B076PJQY34/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1)
 - [*Testing Swift* by Paul Hudson](https://www.hackingwithswift.com/store/testing-swift)
 
 ## watchOS
