@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 68 | March 10, 2021
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 69 | March 11, 2021
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -152,6 +152,7 @@
 - [*Язык Swift. Самоучитель* - Айк Харазян](https://www.ozon.ru/context/detail/id/33701486/)
 - [*Swift подробно* - Инт Чейрд](https://www.ozon.ru/context/detail/id/159640468/)
 - [*Swift. Основы разработки приложений под iOS, iPadOS и macOS* - Усов Василий](https://www.ozon.ru/context/detail/id/159759961/)
+- [*Нативная разработка мобильных приложений. Перекрестный справочник для iOS и Android* - Льюис Шон, Данн Майк](https://www.ozon.ru/product/nativnaya-razrabotka-mobilnyh-prilozheniy-perekrestnyy-spravochnik-dlya-ios-i-android-lyuis-shon-174626896/#section-description--offset-80)
 
 ## Other Awesome Lists
 - [awesome-ios](https://github.com/vsouza/awesome-ios)
