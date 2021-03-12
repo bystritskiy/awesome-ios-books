@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 69 | March 11, 2021
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 70 | March 12, 2021
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -98,6 +98,7 @@
 - [*Classic Computer Science Problems in Swift* by David Kopec](https://www.manning.com/books/classic-computer-science-problems-in-swift)
 
 ## Database
+- [*Practical Core Data: A modern guide to the Core Data framework* by Donny Wals](https://gumroad.com/l/practical-core-data)
 - [*Core Data by Tutorials* by Aaron Douglas, Saul Mora, Matthew Morey, Pietro Rea](https://store.raywenderlich.com/products/core-data-by-tutorials)
 - [*Core Data* by Florian Kugler, Daniel Eggert](https://www.objc.io/books/core-data/)
 - [*Realm: Building Modern Swift Apps with Realm Database* by Marin Todorov](https://store.raywenderlich.com/products/realm-building-modern-swift-apps-with-realm-database)
