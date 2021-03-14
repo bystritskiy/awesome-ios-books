@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 71 | March 13, 2021
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 72 | March 14, 2021
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -25,6 +25,7 @@
 - [ARKit](#arkit)
 - [Machine Learning](#machine-learning)
 - [Metal](#metal)
+- [Catalyst](#catalyst)
 - [Game Development](#game-development)
 - [Reverse Engineering](#reverse-engineering)
 - [Network](#network)
@@ -114,6 +115,9 @@
 
 ## Metal
 - [*Metal by Tutorials* by Caroline Begbie, Marius Horga](https://store.raywenderlich.com/products/metal-by-tutorials)
+
+## Catalyst
+- [*Catalyst by Tutorials* By Marin Bencevic, Andy Pereira and Nick Bonatsakis](https://www.raywenderlich.com/books/catalyst-by-tutorials/v2.0)
 
 ## Game Development
 - [*Dive Into SpriteKit* by Paul Hudson](https://www.hackingwithswift.com/store/dive-into-spritekit)
