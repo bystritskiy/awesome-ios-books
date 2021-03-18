@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 74 | March 17, 2021
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 75 | March 18, 2021
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -55,6 +55,7 @@
 - [*Objective-C for Swift Developers* by Paul Hudson](https://www.hackingwithswift.com/store/objective-c-for-swift-developers)
 
 ## Swift
+- [*Swift Programming: The Big Nerd Ranch Guide* by Mikey Ward](https://www.bignerdranch.com/books/swift-programming-the-big-nerd-ranch-guide-third-edition/)
 - [*Swift Cookbook* by Keith Moon, Chris Barker](https://www.packtpub.com/product/swift-cookbook-second-edition/9781839211195)
 - [*Swift Apprentice* by Ehab Amer, Alexis Gallagher, Matt Galloway, Eli Ganim, Ben Morrow, Cosmin Pupaza, Steven Van Impe](https://store.raywenderlich.com/products/swift-apprentice)
 - [*Advanced Swift* by Chris Eidhof, Ole Begemann, and Airspeed Velocity](https://www.objc.io/books/advanced-swift)
