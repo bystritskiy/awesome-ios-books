@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 77 | March 20, 2021
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 78 | March 21, 2021
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -39,7 +39,8 @@
 
 
 ## iOS
-- [*Beginning iPhone Development with Swift 5* by Wallace Wang](https://www.amazon.com/Beginning-iPhone-Development-Swift-Exploring/dp/1484248643/ref=sr_1_14?keywords=Wallace+Wang&qid=1570780866&sr=8-14)
+- [*iOS 14 Programming for Beginners:* by by Ahmad Sahar](https://www.amazon.com/iOS-14-Programming-Beginners-building/dp/1800209746)
+- [*Beginning iPhone Development with Swift 5* by Wallace Wang](https://www.amazon.com/Beginning-iPhone-Development-Swift-Exploring/dp/1484248643)
 - [*Beginning iOS 13 Programming with Swift* by Simon Ng](https://www.appcoda.com/learnswift/)
 - [*iOS Apprentice* by Matthijs Hollemans, Fahim Farook](https://store.raywenderlich.com/products/swift-apprentice)
 - [*iOS 12 Programming Fundamentals with Swift* by Matt Neuburg](https://www.amazon.com/iOS-12-Programming-Fundamentals-Swift/dp/1492044555/)
