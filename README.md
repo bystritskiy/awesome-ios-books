@@ -66,7 +66,6 @@
 - [*Swift Protocol-Oriented Programming* by Jon Hoffman](https://www.amazon.com/Swift-Protocol-Oriented-Programming-productivity-applications-ebook/dp/B07TVB84G8)
 - [*Mastering Swift 5* by Jon Hoffman](https://www.amazon.com/Mastering-Swift-latest-programming-language/dp/1789139864)
 - [*Optimizing Collections* by Károly Lőrentey](https://www.objc.io/books/optimizing-collections/)
-- [*Practical AI with Swift* by Mars Geldard, Jonathon Manning, Paris Buttfield-Addison, Tim Nugent](https://aiwithswift.com/book/)
 - [*Hands-On Swift 5 Microservices Development* by Ralph Kuepper](https://www.packtpub.com/web-development/hands-on-swift-5-microservices-development)
 - [*Guide to Swift Strings* by Flight School (Matt)](https://flight.school/books/strings/)
 
@@ -116,6 +115,7 @@
 - [*ARKit by Tutorials* by Chris Language, Namrata Bandekar, Antonio Bello, Tammy Coron](https://store.raywenderlich.com/products/arkit-by-tutorials)
 
 ## Machine Learning
+- [*Practical AI with Swift* by Mars Geldard, Jonathon Manning, Paris Buttfield-Addison, Tim Nugent](https://aiwithswift.com/book/)
 - [*Deep Learning with Swift for TensorFlow* by Rahul Bhalley](https://www.apress.com/gp/book/9781484263297)
 - [*Machine Learning by Tutorials* by Matthijs Hollemans, Audrey Tam, Chris LaPollo](https://store.raywenderlich.com/products/machine-learning-by-tutorials)
 
