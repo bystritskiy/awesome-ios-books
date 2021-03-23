@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 78 | March 21, 2021
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 79 | March 23, 2021
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -74,6 +74,7 @@
 - [*Functional Swift* by Chris Eidhof, Florian Kugler, Wouter Swierstra](https://www.objc.io/books/functional-swift)
 
 ## UI
+- [*Auto Layout by Tutorials* by Libranner Santos, Jayven Nhan](https://www.raywenderlich.com/books/auto-layout-by-tutorials/v1.0)
 - [*Modern Auto Layout* by Keith Harrison](https://gum.co/albook)
 - [*iOS Animations by Tutorials* by Marin Todorov](https://store.raywenderlich.com/products/ios-animations-by-tutorials)
 
