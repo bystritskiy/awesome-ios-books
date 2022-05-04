@@ -83,11 +83,15 @@
 - [*Thinking in SwiftUI* by Chris Eidhof, Florian Kugler](https://www.objc.io/books/thinking-in-swiftui/)
 - [*SwiftUI by Tutorials* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/swiftui-by-tutorials)
 - [*SwiftUI by Example* by Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui)
+- [*SwiftUI Views Quick Start (FREE)* by Mark Moeykens](https://www.bigmountainstudio.com/free-swiftui-book)
+- [*SwiftUI Views Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/swiftui-views-book)
 - [*SwiftUI Animations Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/swiftui-animations)
+- [*Working with Data in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/data)
 
 ## Combine
 - [*Using Combine* By Joseph Heck](https://gumroad.com/l/usingcombine)
 - [*Combine: Asynchronous Programming with Swift* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift)
+- [*Combine Mastery in SwiftUI* By Mark Moeykens](https://www.bigmountainstudio.com/combine)
 
 ## Architecture
 - [*The Clean Swift Handbook* by Raymond Law](https://clean-swift.com/handbook)
@@ -112,7 +116,7 @@
 - [*Realm: Building Modern Swift Apps with Realm Database* by Marin Todorov](https://store.raywenderlich.com/products/realm-building-modern-swift-apps-with-realm-database)
 - [*Build iOS Database Apps with Swift and SQLite* by Kevin Languedoc](https://www.amazon.com/Build-Database-Apps-Swift-SQLite-ebook/dp/B01MRKN6H6)
 
-## ARkit
+## ARKit
 - [*Apple Augmented Reality by Tutorials* by Chris Language](https://www.raywenderlich.com/books/apple-augmented-reality-by-tutorials/v1.0)
 - [*Beginning ARKit for iPhone and iPad* by Wallace Wang](https://www.amazon.com/Beginning-ARKit-iPhone-iPad-Development/dp/1484241010)
 - [*ARKit by Tutorials* by Chris Language, Namrata Bandekar, Antonio Bello, Tammy Coron](https://store.raywenderlich.com/products/arkit-by-tutorials)
