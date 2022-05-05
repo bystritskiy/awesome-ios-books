@@ -167,8 +167,7 @@
 ## Interview
 - [*The iOS Interview Guide* by Alex Bush](https://iosinterviewguide.com/)
 
-## Russian books 
-🇷🇺 
+## Russian books 🇷🇺
 - [*Разработка приложений на Swift 5.1 и SwiftUI с нуля* - Александр Казанский](https://www.labirint.ru/books/785347/)
 - [*Язык Swift. Самоучитель* - Айк Харазян](https://www.ozon.ru/context/detail/id/33701486/)
 - [*Swift подробно* - Инт Чейрд](https://www.ozon.ru/context/detail/id/159640468/)
