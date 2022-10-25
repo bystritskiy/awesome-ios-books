@@ -59,6 +59,7 @@
 - [*Objective-C for Swift Developers* by Paul Hudson](https://www.hackingwithswift.com/store/objective-c-for-swift-developers)
 
 ## Swift
+- [*The Swift Programming Language* by Apple](https://books.apple.com/us/book/swift-programming-language/id881256329)
 - [*Swift Programming: The Big Nerd Ranch Guide* by Mikey Ward](https://www.bignerdranch.com/books/swift-programming-the-big-nerd-ranch-guide-third-edition/)
 - [*Swift Cookbook* by Keith Moon, Chris Barker](https://www.packtpub.com/product/swift-cookbook-second-edition/9781839211195)
 - [*Swift Apprentice* by Ehab Amer, Alexis Gallagher, Matt Galloway, Eli Ganim, Ben Morrow, Cosmin Pupaza, Steven Van Impe](https://store.raywenderlich.com/products/swift-apprentice)
