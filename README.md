@@ -51,8 +51,8 @@
 - [*Obscure Topics in Objective-C, Swift, and Cocoa* by NSHipster](https://gumroad.com/l/nshipster-third-edition)
 - [*Push Notifications by Tutorials* by Scott Grosch, Marin Bencevic, Shai Mishali](https://store.raywenderlich.com/products/push-notifications-by-tutorials)
 - [*iOS App Distribution & Best Practices* by Keegan Rush, Pietro Rea](https://www.raywenderlich.com/books/ios-app-distribution-best-practices/v1.0.ea1)
-- [Anyone Can Create an App by Wendy L. Wise](https://www.manning.com/books/anyone-can-create-an-app)
-- [iOS Development with Swift by Craig Grummitt](https://www.manning.com/books/ios-development-with-swift)
+- [*Anyone Can Create an App* by Wendy L. Wise](https://www.manning.com/books/anyone-can-create-an-app)
+- [*iOS Development with Swift* by Craig Grummitt](https://www.manning.com/books/ios-development-with-swift)
 
 ## Objective-C
 - [*Obscure Topics in Cocoa & Objective-C* by NSHipster](https://gumroad.com/l/nshipster)
@@ -73,9 +73,9 @@
 - [*Hands-On Swift 5 Microservices Development* by Ralph Kuepper](https://www.packtpub.com/web-development/hands-on-swift-5-microservices-development)
 - [*Guide to Swift Strings* by Flight School (Matt)](https://flight.school/books/strings/)
 - [*Compiling Swift Generics* by Slava Pestov](https://download.swift.org/docs/assets/generics.pdf)
-- [Hello Swift! by Tanmay Bakshi, Lynn Beighley](https://www.manning.com/books/hello-swift)
-- [Swift in Depth by Tjeerd in 't Veen](https://www.manning.com/books/swift-in-depth)
-- [Classic Computer Science Problems in Swift by David Kopec](https://www.manning.com/books/classic-computer-science-problems-in-swift)
+- [*Hello Swift!* by Tanmay Bakshi, Lynn Beighley](https://www.manning.com/books/hello-swift)
+- [*Swift in Depth* by Tjeerd in 't Veen](https://www.manning.com/books/swift-in-depth)
+- [*Classic Computer Science Problems in Swift* by David Kopec](https://www.manning.com/books/classic-computer-science-problems-in-swift)
 
 ## Functional Swift
 - [*RxSwift: Reactive Programming with Swift* by Florent Pillet, Junior Bontognali, Scott Gardner, Ash Furrow, Marin Todorov, Shai Mishali](https://store.raywenderlich.com/products/rxswift)
@@ -107,7 +107,7 @@
 - [*Swift Design Patterns* by Paul Hudson](https://www.hackingwithswift.com/store/swift-design-patterns)
 - [*Design Patterns by Tutorials* by Joshua Greene, Jay Strawn](https://store.raywenderlich.com/products/design-patterns-by-tutorials)
 - [*Hands-On Design Patterns with Swift* by Giordano Scalzo, Florent Vilmart, Sergio De Simone](https://www.packtpub.com/application-development/hands-design-patterns-swift#tab-label-additional)
-- [Cocoa Design Patterns](https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
+- [*Cocoa Design Patterns* by Erik Buck](https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
 
 ## Multithreading
 - [*Concurrency by Tutorials* by Scott Grosch](https://store.raywenderlich.com/products/concurrency-by-tutorials)
