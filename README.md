@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 86 | Aug 26, 2022
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 87 | Oct 25, 2022
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -69,6 +69,7 @@
 - [*Optimizing Collections* by Károly Lőrentey](https://www.objc.io/books/optimizing-collections/)
 - [*Hands-On Swift 5 Microservices Development* by Ralph Kuepper](https://www.packtpub.com/web-development/hands-on-swift-5-microservices-development)
 - [*Guide to Swift Strings* by Flight School (Matt)](https://flight.school/books/strings/)
+- [*Compiling Swift Generics* by Slava Pestov](https://download.swift.org/docs/assets/generics.pdf)
 
 ## Functional Swift
 - [*RxSwift: Reactive Programming with Swift* by Florent Pillet, Junior Bontognali, Scott Gardner, Ash Furrow, Marin Todorov, Shai Mishali](https://store.raywenderlich.com/products/rxswift)
