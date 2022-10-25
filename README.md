@@ -72,6 +72,7 @@
 - [*Hands-On Swift 5 Microservices Development* by Ralph Kuepper](https://www.packtpub.com/web-development/hands-on-swift-5-microservices-development)
 - [*Guide to Swift Strings* by Flight School (Matt)](https://flight.school/books/strings/)
 - [*Compiling Swift Generics* by Slava Pestov](https://download.swift.org/docs/assets/generics.pdf)
+- [Hello Swift! by Tanmay Bakshi, Lynn Beighley](https://www.manning.com/books/hello-swift)
 
 ## Functional Swift
 - [*RxSwift: Reactive Programming with Swift* by Florent Pillet, Junior Bontognali, Scott Gardner, Ash Furrow, Marin Todorov, Shai Mishali](https://store.raywenderlich.com/products/rxswift)
