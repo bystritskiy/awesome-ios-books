@@ -52,6 +52,7 @@
 - [*Push Notifications by Tutorials* by Scott Grosch, Marin Bencevic, Shai Mishali](https://store.raywenderlich.com/products/push-notifications-by-tutorials)
 - [*iOS App Distribution & Best Practices* by Keegan Rush, Pietro Rea](https://www.raywenderlich.com/books/ios-app-distribution-best-practices/v1.0.ea1)
 - [Anyone Can Create an App by Wendy L. Wise](https://www.manning.com/books/anyone-can-create-an-app)
+- [iOS Development with Swift by Craig Grummitt](https://www.manning.com/books/ios-development-with-swift)
 
 ## Objective-C
 - [*Obscure Topics in Cocoa & Objective-C* by NSHipster](https://gumroad.com/l/nshipster)
