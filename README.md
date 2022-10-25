@@ -57,6 +57,7 @@
 - [*Obscure Topics in Cocoa & Objective-C* by NSHipster](https://gumroad.com/l/nshipster)
 - [*Objective-C for Absolute Beginners* by Gary Bennett, Mitchell Fisher, Brad Lees](https://www.amazon.com/Objective-C-Absolute-Beginners-iPhone-Programming/dp/1430236531)
 - [*Objective-C for Swift Developers* by Paul Hudson](https://www.hackingwithswift.com/store/objective-c-for-swift-developers)
+- [*Programming in Objective-C* by Stephen G. Kochan](https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
 
 ## Swift
 - [*The Swift Programming Language* by Apple](https://books.apple.com/us/book/swift-programming-language/id881256329)
