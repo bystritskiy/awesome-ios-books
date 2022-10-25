@@ -74,7 +74,7 @@
 - [*Compiling Swift Generics* by Slava Pestov](https://download.swift.org/docs/assets/generics.pdf)
 - [Hello Swift! by Tanmay Bakshi, Lynn Beighley](https://www.manning.com/books/hello-swift)
 - [Swift in Depth by Tjeerd in 't Veen](https://www.manning.com/books/swift-in-depth)
-
+- [Classic Computer Science Problems in Swift by David Kopec](https://www.manning.com/books/classic-computer-science-problems-in-swift)
 
 ## Functional Swift
 - [*RxSwift: Reactive Programming with Swift* by Florent Pillet, Junior Bontognali, Scott Gardner, Ash Furrow, Marin Todorov, Shai Mishali](https://store.raywenderlich.com/products/rxswift)
