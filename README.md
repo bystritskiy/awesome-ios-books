@@ -182,6 +182,7 @@
 ## Interview
 - [*The iOS Interview Guide* by Alex Bush](https://iosinterviewguide.com/)
 - [*Ace the iOS Interview Release* by Aryaman Sharda](https://aryamansharda.gumroad.com/l/tcvck)
+- [*Cracking the iOS Interview* by Swift Anytime](https://www.swiftanytime.com/cracking-the-ios-interview)
 
 ## 🇷🇺 Russian books
 - [*Разработка приложений на Swift 5.1 и SwiftUI с нуля* - Александр Казанский](https://www.labirint.ru/books/785347/)
