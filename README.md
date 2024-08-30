@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 102 | May 15, 2024
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 103 | Aug 30, 2024
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -198,11 +198,5 @@
 ## Contributing and License
 - [See the guide](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 - Distributed under the MIT license. See LICENSE for more information.
-
-## Contributors
-- [Bogdan Bystritskiy](https://www.linkedin.com/in/maxim-eremenko/)
-- [Big Mountain Studio](https://github.com/bigmountainstudio)
-- [Matthaus Woolard](https://github.com/hishnash)
-
 
 
