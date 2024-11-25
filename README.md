@@ -199,4 +199,6 @@
 - [See the guide](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 - Distributed under the MIT license. See LICENSE for more information.
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=bystritskiy/awesome-ios-books&type=Date)](https://star-history.com/#bystritskiy/awesome-ios-books&Date)
