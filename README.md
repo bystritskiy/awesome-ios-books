@@ -98,6 +98,7 @@
 - [*SwiftUI Views Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/swiftui-views-book)
 - [*SwiftUI Animations Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/swiftui-animations)
 - [*Working with Data in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/data)
+- [*SwiftUI Fundamentals* by Natalia Panferova](https://books.nilcoalescing.com/swiftui-fundamentals)
 
 ## Combine
 - [*Using Combine* By Joseph Heck](https://gumroad.com/l/usingcombine)
