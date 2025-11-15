@@ -158,7 +158,7 @@
 - [*Advanced Apple Debugging & Reverse Engineering* by Derek Selander](https://store.raywenderlich.com/products/advanced-apple-debugging-and-reverse-engineering)
 
 ## Network
-- [*Guide to Swift Codable* by Flight School (Matt)](https://flight.school/books/codable/)
+- [*Guide to Swift Codable* by Flight School (Matt)](https://flightdotschool.com/books/codable/)
 
 ## Testing
 - [*iOS Test-Driven Development by Tutorials* by Joshua Greene, Mike Katz](https://store.raywenderlich.com/products/ios-test-driven-development)
