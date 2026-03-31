@@ -115,6 +115,7 @@
 - [*Design Patterns by Tutorials* by Joshua Greene, Jay Strawn](https://store.raywenderlich.com/products/design-patterns-by-tutorials)
 - [*Hands-On Design Patterns with Swift* by Giordano Scalzo, Florent Vilmart, Sergio De Simone](https://www.packtpub.com/application-development/hands-design-patterns-swift#tab-label-additional)
 - [*Cocoa Design Patterns* by Erik Buck](https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
+- [*SwiftUI Architecture* by Mohammad Azam](https://azamsharp.school/swiftui-architecture-book.html)
 
 ## Multithreading
 - [*Concurrency by Tutorials* by Scott Grosch](https://store.raywenderlich.com/products/concurrency-by-tutorials)
