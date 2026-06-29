@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 109 | June 29, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 110 | June 29, 2026
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -148,6 +148,7 @@
 
 ## Metal
 - [*Metal by Tutorials* by Caroline Begbie, Marius Horga](https://store.raywenderlich.com/products/metal-by-tutorials)
+- [*Apple Metal: From Fundamentals to Practice* by George Ostroborod](https://bookshelf.dev/metal-book/)
 
 ## Catalyst
 - [*Catalyst by Tutorials* By Marin Bencevic, Andy Pereira and Nick Bonatsakis](https://www.raywenderlich.com/books/catalyst-by-tutorials/v2.0)
