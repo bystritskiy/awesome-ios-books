@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 134 | July 1, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 135 | July 1, 2026
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -152,6 +152,7 @@
 - [*Core Data for iOS* by Tim Isted, Tom Harrington](https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)
 - [*Core Data Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/core-data)
 - [*SwiftData Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/swiftdata)
+- [*SwiftData by Example* by Paul Hudson](https://www.hackingwithswift.com/store/swiftdata-by-example)
 
 ## ARKit
 - [*Apple Augmented Reality by Tutorials* by Chris Language](https://www.raywenderlich.com/books/apple-augmented-reality-by-tutorials/v1.0)
