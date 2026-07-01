@@ -1,12 +1,16 @@
 # Awesome iOS Books
 
-> Directory of iOS books
+> A curated catalog of books for iOS, Swift, SwiftUI, Objective-C, and Apple platform development.
+
+Awesome iOS Books helps developers find books for learning and deepening Apple platform engineering: iOS app development, Swift, SwiftUI, UIKit, Objective-C, app architecture, concurrency, testing, databases, Metal, machine learning, watchOS, tvOS, macOS, and server-side Swift.
+
+The list includes beginner-friendly books, advanced references, framework-specific guides, interview preparation. Entries link to official shop, publisher, author, or product pages where possible.
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
 | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 136 | July 1, 2026
 
-## How to Use
+## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our *Content Menu*
 
