@@ -4,7 +4,7 @@
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 133 | July 1, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 134 | July 1, 2026
 
 ## How to Use
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -131,6 +131,7 @@
 - [*Cocoa Design Patterns* by Erik Buck](https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
 - [*SwiftUI Architecture* by Mohammad Azam](https://azamsharp.school/swiftui-architecture-book.html)
 - [*Mastering Swift Package Manager* by Avi Tsadok](https://link.springer.com/book/10.1007/978-1-4842-7049-3)
+- [*Real-World iOS by Tutorials* by Josh Steele, Aaqib Hussain, Renan Benatti Dias](https://www.kodeco.com/books/real-world-ios-by-tutorials)
 
 ## Multithreading
 - [*Concurrency by Tutorials* by Scott Grosch](https://store.raywenderlich.com/products/concurrency-by-tutorials)
