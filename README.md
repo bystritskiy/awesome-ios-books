@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 136 | July 1, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 137 | July 4, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -157,6 +157,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Core Data Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/core-data)
 - [*SwiftData Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/swiftdata)
 - [*SwiftData by Example* by Paul Hudson](https://www.hackingwithswift.com/store/swiftdata-by-example)
+- [*SwiftData Architecture* by Mohammad Azam](https://azamsharp.school/swiftdata-architecture.html)
 
 ## ARKit
 - [*Apple Augmented Reality by Tutorials* by Chris Language](https://www.raywenderlich.com/books/apple-augmented-reality-by-tutorials/v1.0)
