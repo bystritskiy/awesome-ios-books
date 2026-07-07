@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 137 | July 4, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 144 | July 7, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -90,6 +90,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Swift Gems* by Natalia Panferova](https://books.nilcoalescing.com/swift-gems)
 - [*Swift Internals* by Aaqib Hussain](https://www.kodeco.com/books/swift-internals)
 - [*Expert Swift* by Marin Bencevic, Ray Fix, Ehab Amer, Shai Mishali](https://www.kodeco.com/books/expert-swift)
+- [*The Case of the Vanishing Bodies* by Daniel H Steinberg](https://pragprog.com/titles/d-dsbodies/the-case-of-the-vanishing-bodies/)
 
 ## Functional Swift
 - [*RxSwift: Reactive Programming with Swift* by Florent Pillet, Junior Bontognali, Scott Gardner, Ash Furrow, Marin Todorov, Shai Mishali](https://store.raywenderlich.com/products/rxswift)
@@ -118,6 +119,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Working with Data in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/data)
 - [*SwiftUI Fundamentals* by Natalia Panferova](https://books.nilcoalescing.com/swiftui-fundamentals)
 - [*The SwiftUI Way* by Natalia Panferova](https://books.nilcoalescing.com/the-swiftui-way)
+- [*The Mystery of the Mutating Mannequin* by Daniel H Steinberg](https://pragprog.com/titles/d-dsflow/the-mystery-of-the-mutating-mannequin/)
 
 ## Combine
 - [*Using Combine* By Joseph Heck](https://gumroad.com/l/usingcombine)
@@ -141,6 +143,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Concurrency by Tutorials* by Scott Grosch](https://store.raywenderlich.com/products/concurrency-by-tutorials)
 - [*Modern Concurrency in Swift* by Marin Todorov](https://www.kodeco.com/books/modern-concurrency-in-swift/v2.0)
 - [*Practical Swift Concurrency* by Donny Wals](https://practicalswiftconcurrency.com/)
+- [*The Curious Case of the Async Cafe* by Daniel H Steinberg](https://pragprog.com/titles/d-dsasync/the-curious-case-of-the-async-cafe/)
 
 ## Data Structures and Algorithms
 - [*Data Structures and Algorithms* by Kelvin Lau, Vincent Ngo](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift)
@@ -158,6 +161,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*SwiftData Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/swiftdata)
 - [*SwiftData by Example* by Paul Hudson](https://www.hackingwithswift.com/store/swiftdata-by-example)
 - [*SwiftData Architecture* by Mohammad Azam](https://azamsharp.school/swiftdata-architecture.html)
+- [*Build Mobile Apps with SwiftUI and Firebase* by Sullivan De Carli](https://link.springer.com/book/10.1007/978-1-4842-9452-9)
 
 ## ARKit
 - [*Apple Augmented Reality by Tutorials* by Chris Language](https://www.raywenderlich.com/books/apple-augmented-reality-by-tutorials/v1.0)
@@ -182,6 +186,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Dive Into SpriteKit* by Paul Hudson](https://www.hackingwithswift.com/store/dive-into-spritekit)
 - [*3D Apple Games by Tutorials* by Chris Language](https://store.raywenderlich.com/products/3d-apple-games-by-tutorials)
 - [*2D Apple Games by Tutorials* by Caroline Begbie, Mike Berg, Michael Briscoe, Ali Hafizji, Marin Todorov, Ray Wenderlich](https://store.raywenderlich.com/products/3d-apple-games-by-tutorials)
+- [*Apple Game Frameworks and Technologies* by Tammy Coron](https://pragprog.com/titles/tcswift/apple-game-frameworks-and-technologies/)
 
 ## Reverse Engineering
 - [*Practical Reverse Engineering* by Bruce Dang, Alexandre Gazet, Elias Bachaalany, Sébastien Josse](https://www.wiley.com/en-ca/Practical+Reverse+Engineering%3A+x86%2C+x64%2C+ARM%2C+Windows+Kernel%2C+Reversing+Tools%2C+and+Obfuscation-p-9781118787250)
@@ -196,10 +201,12 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Testing Swift* by Paul Hudson](https://www.hackingwithswift.com/store/testing-swift)
 - [*The Case of the Crimson Test Suite* by Daniel H Steinberg](https://pragprog.com/titles/d-dscrimson/the-case-of-the-crimson-test-suite/)
 - [*iOS Unit Testing by Example* by Jon Reid](https://pragprog.com/titles/jrlegios/ios-unit-testing-by-example/)
+- [*Test-Driven Development in Swift* by Gio Lodi](https://link.springer.com/book/10.1007/979-8-8688-2637-5)
 
 ## watchOS
 - [*watchOS by Tutorials* by Ehab Amer, Scott Atkinson, Soheil Azarpour, Matthew Morey, Ben Morrow, Audrey Tam, Jack Wu](https://store.raywenderlich.com/products/watchos-by-tutorials)
 - [*Hacking with watchOS* by Paul Hudson](https://twostraws.gumroad.com/l/hwwatchos)
+- [*watchOS With SwiftUI by Tutorials* by Scott Grosch](https://www.kodeco.com/books/watchos-with-swiftui-by-tutorials)
 
 ## tvOS
 - [*tvOS Apprentice* by Christine Abernathy, Jawwad Ahmad, Chris Belanger, Eric Cerney, Josh Greene, Michael Katz, Kelvin Lau, Adrian Strahan](https://store.raywenderlich.com/products/tvos-apprentice)
