@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 155 | July 10, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 165 | July 16, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -65,6 +65,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*iOS 18 App Development Essentials* by Neil Smyth](https://pragprog.com/titles/d-nsios18/ios-18-app-development-essentials/)
 - [*iOS Application Security* by David Thiel](https://nostarch.com/iossecurity)
 - [*UIKit Apprentice* by Fahim Farook](https://www.kodeco.com/books/uikit-apprentice)
+- [*Build Location Apps on iOS with Swift* by Jeffrey Linwood](https://link.springer.com/book/10.1007/978-1-4842-6083-8)
 
 ## Objective-C
 - [*Obscure Topics in Cocoa & Objective-C* by NSHipster](https://gumroad.com/l/nshipster)
@@ -93,6 +94,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Swift Internals* by Aaqib Hussain](https://www.kodeco.com/books/swift-internals)
 - [*Expert Swift* by Marin Bencevic, Ray Fix, Ehab Amer, Shai Mishali](https://www.kodeco.com/books/expert-swift)
 - [*The Case of the Vanishing Bodies* by Daniel H Steinberg](https://pragprog.com/titles/d-dsbodies/the-case-of-the-vanishing-bodies/)
+- [*Swift Style, Second Edition* by Erica Sadun](https://pragprog.com/titles/esswift2/swift-style-second-edition/)
 
 ## Functional Swift
 - [*RxSwift: Reactive Programming with Swift* by Florent Pillet, Junior Bontognali, Scott Gardner, Ash Furrow, Marin Todorov, Shai Mishali](https://store.raywenderlich.com/products/rxswift)
@@ -104,6 +106,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Modern Auto Layout* by Keith Harrison](https://gum.co/albook)
 - [*iOS Animations by Tutorials* by Marin Todorov](https://store.raywenderlich.com/products/ios-animations-by-tutorials)
 - [*About iOS Accessibility* by Mikhail Rubanov](https://bookshelf.dev/a11y-book/en/)
+- [*Developing Accessible iOS Apps* by Daniel Devesa Derksen-Staats](https://link.springer.com/book/10.1007/978-1-4842-5308-3)
 
 ## SwiftUI
 - [*The Ultimate SwiftUI Layout Cookbook* by Karin Prater](https://learn.swiftyplace.com/ultimate-swiftui-layout-cookbook)
@@ -123,6 +126,8 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*The SwiftUI Way* by Natalia Panferova](https://books.nilcoalescing.com/the-swiftui-way)
 - [*An iOS Developer's Guide to SwiftUI* by Michele Fadda](https://www.packtpub.com/en-us/product/an-ios-developers-guide-to-swiftui-9781801813624)
 - [*The Mystery of the Mutating Mannequin* by Daniel H Steinberg](https://pragprog.com/titles/d-dsflow/the-mystery-of-the-mutating-mannequin/)
+- [*Integrating SwiftUI into UIKit Apps* by Natalia Panferova](https://books.nilcoalescing.com/integrating-swiftui)
+- [*A SwiftUI Kickstart* by Daniel H Steinberg](https://pragprog.com/titles/d-dsswiftui/a-swiftui-kickstart/)
 
 ## Combine
 - [*Using Combine* By Joseph Heck](https://gumroad.com/l/usingcombine)
@@ -175,6 +180,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*ARKit by Tutorials* by Chris Language, Namrata Bandekar, Antonio Bello, Tammy Coron](https://store.raywenderlich.com/products/arkit-by-tutorials)
 - [*Mastering ARKit* by Jayven Nhan](https://link.springer.com/book/10.1007/979-8-8688-0847-0)
 - [*Apple Vision Pro for Creators* by John Ray](https://www.informit.com/store/apple-vision-pro-for-creators-a-beginners-guide-to-9780138360221)
+- [*Computer Vision and Augmented Reality in iOS* by Ahmed Fathi Bekhit](https://link.springer.com/book/10.1007/978-1-4842-7462-0)
 
 ## Machine Learning
 - [*Practical AI with Swift* by Mars Geldard, Jonathon Manning, Paris Buttfield-Addison, Tim Nugent](https://aiwithswift.com/book/)
@@ -195,6 +201,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*3D Apple Games by Tutorials* by Chris Language](https://store.raywenderlich.com/products/3d-apple-games-by-tutorials)
 - [*2D Apple Games by Tutorials* by Caroline Begbie, Mike Berg, Michael Briscoe, Ali Hafizji, Marin Todorov, Ray Wenderlich](https://store.raywenderlich.com/products/3d-apple-games-by-tutorials)
 - [*Apple Game Frameworks and Technologies* by Tammy Coron](https://pragprog.com/titles/tcswift/apple-game-frameworks-and-technologies/)
+- [*Beginning iOS Game Center and GameKit* by Kyle Richter, Beau G. Bolle](https://link.springer.com/book/10.1007/978-1-4842-7756-0)
 
 ## Reverse Engineering
 - [*Practical Reverse Engineering* by Bruce Dang, Alexandre Gazet, Elias Bachaalany, Sébastien Josse](https://www.wiley.com/en-ca/Practical+Reverse+Engineering%3A+x86%2C+x64%2C+ARM%2C+Windows+Kernel%2C+Reversing+Tools%2C+and+Obfuscation-p-9781118787250)
@@ -210,6 +217,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*The Case of the Crimson Test Suite* by Daniel H Steinberg](https://pragprog.com/titles/d-dscrimson/the-case-of-the-crimson-test-suite/)
 - [*iOS Unit Testing by Example* by Jon Reid](https://pragprog.com/titles/jrlegios/ios-unit-testing-by-example/)
 - [*Test-Driven Development in Swift* by Gio Lodi](https://link.springer.com/book/10.1007/979-8-8688-2637-5)
+- [*Modularizing Legacy Projects Using TDD* by Khaled El-Morabea, Hassaan El-Garem](https://link.springer.com/book/10.1007/978-1-4842-7428-6)
 
 ## watchOS
 - [*watchOS by Tutorials* by Ehab Amer, Scott Atkinson, Soheil Azarpour, Matthew Morey, Ben Morrow, Audrey Tam, Jack Wu](https://store.raywenderlich.com/products/watchos-by-tutorials)
@@ -225,6 +233,8 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*macOS Apprentice* by Sarah Reichelt](https://www.kodeco.com/books/macos-apprentice)
 - [*macOS by Tutorials* by Sarah Reichelt](https://troz.net/post/2024/macos_tutorials/)
 - [*Hacking with macOS* by Paul Hudson](https://twostraws.gumroad.com/l/hwmacos)
+- [*macOS Daemonology* by Volodymyr Vashurkin](https://link.springer.com/book/10.1007/978-1-4842-7277-0)
+- [*Interprocess Communication with macOS* by Hem Dutt](https://link.springer.com/book/10.1007/978-1-4842-7045-5)
 
 ## Server Side Swift
 - [*Practical Server Side Swift* by Tibor Bödecs](https://gumroad.com/l/practical-server-side-swift)
