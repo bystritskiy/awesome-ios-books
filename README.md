@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 166 | July 27, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 167 | July 27, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -96,6 +96,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Expert Swift* by Marin Bencevic, Ray Fix, Ehab Amer, Shai Mishali](https://www.kodeco.com/books/expert-swift)
 - [*The Case of the Vanishing Bodies* by Daniel H Steinberg](https://pragprog.com/titles/d-dsbodies/the-case-of-the-vanishing-bodies/)
 - [*Swift Style, Second Edition* by Erica Sadun](https://pragprog.com/titles/esswift2/swift-style-second-edition/)
+- [*A Swift Kickstart, Second Edition* by Daniel H Steinberg](https://pragprog.com/titles/d-dsswift2/a-swift-kickstart-second-edition/)
 
 ## Functional Swift
 - [*RxSwift: Reactive Programming with Swift* by Florent Pillet, Junior Bontognali, Scott Gardner, Ash Furrow, Marin Todorov, Shai Mishali](https://store.raywenderlich.com/products/rxswift)
