@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 169 | July 27, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 170 | July 27, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -139,6 +139,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Combine Mastery in SwiftUI* By Mark Moeykens](https://www.bigmountainstudio.com/combine)
 - [*Practical Combine* by Donny Wals](https://practicalcombine.com/)
 - [*Asynchronous Programming with SwiftUI and Combine* by Peter Friese](https://link.springer.com/book/10.1007/978-1-4842-8572-5)
+- [*A Combine Kickstart* by Daniel H Steinberg](https://pragprog.com/titles/d-dscombine/a-combine-kickstart/)
 
 ## Architecture
 - [*The Clean Swift Handbook* by Raymond Law](https://clean-swift.com/handbook)
