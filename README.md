@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 165 | July 16, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 166 | July 27, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -66,6 +66,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*iOS Application Security* by David Thiel](https://nostarch.com/iossecurity)
 - [*UIKit Apprentice* by Fahim Farook](https://www.kodeco.com/books/uikit-apprentice)
 - [*Build Location Apps on iOS with Swift* by Jeffrey Linwood](https://link.springer.com/book/10.1007/978-1-4842-6083-8)
+- [*Building iOS 17 Apps with Xcode Storyboards* by Neil Smyth](https://pragprog.com/titles/d-nsxcode/building-ios-17-apps-with-xcode-storyboards/)
 
 ## Objective-C
 - [*Obscure Topics in Cocoa & Objective-C* by NSHipster](https://gumroad.com/l/nshipster)
