@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 167 | July 27, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 168 | July 27, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -109,6 +109,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*iOS Animations by Tutorials* by Marin Todorov](https://store.raywenderlich.com/products/ios-animations-by-tutorials)
 - [*About iOS Accessibility* by Mikhail Rubanov](https://bookshelf.dev/a11y-book/en/)
 - [*Developing Accessible iOS Apps* by Daniel Devesa Derksen-Staats](https://link.springer.com/book/10.1007/978-1-4842-5308-3)
+- [*UI Design for iOS App Development* by Bear Cahill](https://link.springer.com/book/10.1007/978-1-4842-6449-2)
 
 ## SwiftUI
 - [*The Ultimate SwiftUI Layout Cookbook* by Karin Prater](https://learn.swiftyplace.com/ultimate-swiftui-layout-cookbook)
