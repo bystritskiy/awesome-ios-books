@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 171 | July 27, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 172 | July 27, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -193,6 +193,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Deep Learning with Swift for TensorFlow* by Rahul Bhalley](https://www.apress.com/gp/book/9781484263297)
 - [*Machine Learning by Tutorials* by Matthijs Hollemans, Audrey Tam, Chris LaPollo](https://store.raywenderlich.com/products/machine-learning-by-tutorials)
 - [*AI Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/ai-mastery)
+- [*Artificial Intelligence Using Swift* by Mark Watson](https://leanpub.com/SwiftAI)
 
 ## Metal
 - [*Metal by Tutorials* by Marius Horga, Caroline Begbie](https://www.kodeco.com/books/metal-by-tutorials/v5.0)
