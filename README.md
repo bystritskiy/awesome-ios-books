@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 174 | July 27, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 191 | August 7, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -44,7 +44,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 ## iOS
 - [*Practical Tips for Junior iOS Developers* by Aryaman Sharda](https://aryamansharda.gumroad.com/l/fjTSv)
-- [*iOS 14 Programming for Beginners:* by by Ahmad Sahar](https://www.amazon.com/iOS-14-Programming-Beginners-building/dp/1800209746)
+- [*iOS 26 Programming for Beginners* by Ahmad Sahar](https://www.packtpub.com/en-us/product/ios-26-programming-for-beginners-9781806023936)
 - [*Beginning iPhone Development with SwiftUI* by Wallace Wang](https://link.springer.com/book/10.1007/978-1-4842-9541-0)
 - [*Beginning iOS 13 Programming with Swift* by Simon Ng](https://www.appcoda.com/learnswift/)
 - [*iOS Apprentice* by Matthijs Hollemans, Fahim Farook](https://store.raywenderlich.com/products/swift-apprentice)
@@ -60,13 +60,16 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Anyone Can Create an App* by Wendy L. Wise](https://www.manning.com/books/anyone-can-create-an-app)
 - [*iOS Development with Swift* by Craig Grummitt](https://www.manning.com/books/ios-development-with-swift)
 - [*Full Stack iOS Development with Swift and Vapor* by Hem Dutt](https://www.amazon.com/Full-Stack-iOS-Development-Swift-Vapor/dp/1501522574)
-- [*Extreme Mobile: Innovative Techniques for Crafting Customizable Mobile Apps Using iOS Frameworks* by Charlie Cocchiaro](https://a.co/d/0dCo5leV)
+- [*Extreme Mobile: Innovative Techniques for Crafting Customizable Mobile Apps Using iOS Frameworks* by Charlie Cocchiaro](https://link.springer.com/book/10.1007/979-8-8688-2323-7)
 - [*Mastering iOS 18 Development* by Avi Tsadok](https://www.packtpub.com/en-us/product/mastering-ios-18-development-9781835463277)
 - [*iOS 18 App Development Essentials* by Neil Smyth](https://pragprog.com/titles/d-nsios18/ios-18-app-development-essentials/)
 - [*iOS Application Security* by David Thiel](https://nostarch.com/iossecurity)
 - [*UIKit Apprentice* by Fahim Farook](https://www.kodeco.com/books/uikit-apprentice)
 - [*Build Location Apps on iOS with Swift* by Jeffrey Linwood](https://link.springer.com/book/10.1007/978-1-4842-6083-8)
 - [*Building iOS 17 Apps with Xcode Storyboards* by Neil Smyth](https://pragprog.com/titles/d-nsxcode/building-ios-17-apps-with-xcode-storyboards/)
+- [*Hacking with iOS* by Paul Hudson](https://www.hackingwithswift.com/store/hacking-with-ios)
+- [*Advanced iOS: Volume One* by Paul Hudson](https://www.hackingwithswift.com/store/advanced-ios-1)
+- [*Everything but the Code* by Paul Hudson](https://www.hackingwithswift.com/store/everything-but-the-code)
 
 ## Objective-C
 - [*Obscure Topics in Cocoa & Objective-C* by NSHipster](https://gumroad.com/l/nshipster)
@@ -83,7 +86,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Advanced Swift* by Chris Eidhof, Ole Begemann, and Airspeed Velocity](https://www.objc.io/books/advanced-swift)
 - [*Pro Swift* by Paul Hudson](https://www.hackingwithswift.com/store/pro-swift)
 - [*Swift Protocol-Oriented Programming* by Jon Hoffman](https://www.amazon.com/Swift-Protocol-Oriented-Programming-productivity-applications-ebook/dp/B07TVB84G8)
-- [*Mastering Swift 5* by Jon Hoffman](https://www.amazon.com/Mastering-Swift-latest-programming-language/dp/1789139864)
+- [*Mastering Swift 6* by Jon Hoffman](https://www.packtpub.com/en-us/product/mastering-swift-6-9781836203698)
 - [*Optimizing Collections* by Károly Lőrentey](https://www.objc.io/books/optimizing-collections/)
 - [*Hands-On Swift 5 Microservices Development* by Ralph Kuepper](https://www.packtpub.com/web-development/hands-on-swift-5-microservices-development)
 - [*Guide to Swift Strings* by Flight School (Matt)](https://flight.school/books/strings/)
@@ -97,6 +100,8 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*The Case of the Vanishing Bodies* by Daniel H Steinberg](https://pragprog.com/titles/d-dsbodies/the-case-of-the-vanishing-bodies/)
 - [*Swift Style, Second Edition* by Erica Sadun](https://pragprog.com/titles/esswift2/swift-style-second-edition/)
 - [*A Swift Kickstart, Second Edition* by Daniel H Steinberg](https://pragprog.com/titles/d-dsswift2/a-swift-kickstart-second-edition/)
+- [*Understanding Swift* by Paul Hudson](https://www.hackingwithswift.com/store/understanding-swift)
+- [*Guide to Swift Numbers* by Flight School (Matt)](https://flightdotschool.com/books/numbers/)
 
 ## Functional Swift
 - [*RxSwift: Reactive Programming with Swift* by Florent Pillet, Junior Bontognali, Scott Gardner, Ash Furrow, Marin Todorov, Shai Mishali](https://store.raywenderlich.com/products/rxswift)
@@ -110,6 +115,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*About iOS Accessibility* by Mikhail Rubanov](https://bookshelf.dev/a11y-book/en/)
 - [*Developing Accessible iOS Apps* by Daniel Devesa Derksen-Staats](https://link.springer.com/book/10.1007/978-1-4842-5308-3)
 - [*UI Design for iOS App Development* by Bear Cahill](https://link.springer.com/book/10.1007/978-1-4842-6449-2)
+- [*Developing Inclusive Mobile Apps* by Rob Whitaker](https://link.springer.com/book/10.1007/979-8-8688-2809-6)
 
 ## SwiftUI
 - [*The Ultimate SwiftUI Layout Cookbook* by Karin Prater](https://learn.swiftyplace.com/ultimate-swiftui-layout-cookbook)
@@ -132,6 +138,9 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Integrating SwiftUI into UIKit Apps* by Natalia Panferova](https://books.nilcoalescing.com/integrating-swiftui)
 - [*A SwiftUI Kickstart* by Daniel H Steinberg](https://pragprog.com/titles/d-dsswiftui/a-swiftui-kickstart/)
 - [*Elevate SwiftUI Skills by Building Projects* by Frahaan Hussain](https://www.packtpub.com/en-us/product/elevate-swiftui-skills-by-building-projects-9781803237442)
+- [*Pro SwiftUI* by Paul Hudson](https://www.hackingwithswift.com/store/pro-swiftui)
+- [*SwiftUI Animations by Tutorials* by Bill Morefield, Irina Galata](https://www.kodeco.com/books/swiftui-animations-by-tutorials)
+- [*Animating SwiftUI Applications* by Stephen DeStefano](https://www.packtpub.com/en-us/product/animating-swiftui-applications-9781803232669)
 
 ## Combine
 - [*Using Combine* By Joseph Heck](https://gumroad.com/l/usingcombine)
@@ -153,6 +162,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Mastering Swift Package Manager* by Avi Tsadok](https://link.springer.com/book/10.1007/978-1-4842-7049-3)
 - [*Real-World iOS by Tutorials* by Josh Steele, Aaqib Hussain, Renan Benatti Dias](https://www.kodeco.com/books/real-world-ios-by-tutorials)
 - [*iOS Development at Scale* by Eric Vennaro](https://link.springer.com/book/10.1007/978-1-4842-9456-7)
+- [*Real-World iOS Development* by Avi Tsadok](https://link.springer.com/book/10.1007/979-8-8688-2815-7)
 
 ## Multithreading
 - [*Concurrency by Tutorials* by Scott Grosch](https://store.raywenderlich.com/products/concurrency-by-tutorials)
@@ -160,11 +170,13 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Practical Swift Concurrency* by Donny Wals](https://practicalswiftconcurrency.com/)
 - [*Modern Concurrency on Apple Platforms* by Andrés Ibañez Kautsch](https://link.springer.com/book/10.1007/978-1-4842-8695-1)
 - [*The Curious Case of the Async Cafe* by Daniel H Steinberg](https://pragprog.com/titles/d-dsasync/the-curious-case-of-the-async-cafe/)
+- [*Swift Concurrency by Example* by Paul Hudson](https://www.hackingwithswift.com/store/swift-concurrency-by-example)
 
 ## Data Structures and Algorithms
 - [*Data Structures & Algorithms in Swift* by Vincent Ngo, Kelvin Lau](https://www.kodeco.com/books/data-structures-algorithms-in-swift/v5.0)
 - [*Swift Algorithms & Data Structures* by Wayne Bishop](https://www.waynewbishop.com/ios-interview/book)
 - [*Classic Computer Science Problems in Swift* by David Kopec](https://www.manning.com/books/classic-computer-science-problems-in-swift)
+- [*Data Structures and Algorithms in Swift* by Elshad Karimov](https://link.springer.com/book/10.1007/978-1-4842-5769-2)
 
 ## Database
 - [*Practical Core Data: A modern guide to the Core Data framework* by Donny Wals](https://gumroad.com/l/practical-core-data)
@@ -179,6 +191,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*SwiftData Architecture* by Mohammad Azam](https://azamsharp.school/swiftdata-architecture.html)
 - [*App Development Using iOS iCloud* by Shantanu Baruah, Shaurya Baruah](https://link.springer.com/book/10.1007/979-8-8688-0944-6)
 - [*Build Mobile Apps with SwiftUI and Firebase* by Sullivan De Carli](https://link.springer.com/book/10.1007/978-1-4842-9452-9)
+- [*Unleash Core Data* by Avi Tsadok](https://link.springer.com/book/10.1007/978-1-4842-8211-3)
 
 ## ARKit
 - [*Apple Augmented Reality by Tutorials* by Chris Language](https://www.raywenderlich.com/books/apple-augmented-reality-by-tutorials/v1.0)
@@ -194,6 +207,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Machine Learning by Tutorials* by Matthijs Hollemans, Audrey Tam, Chris LaPollo](https://store.raywenderlich.com/products/machine-learning-by-tutorials)
 - [*AI Mastery in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/ai-mastery)
 - [*Artificial Intelligence Using Swift* by Mark Watson](https://leanpub.com/SwiftAI)
+- [*Apple Foundation Models* by Bill Morefield](https://www.kodeco.com/books/apple-foundation-models)
 
 ## Metal
 - [*Metal by Tutorials* by Marius Horga, Caroline Begbie](https://www.kodeco.com/books/metal-by-tutorials/v5.0)
@@ -219,12 +233,13 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 ## Testing
 - [*iOS Test-Driven Development by Tutorials* by Joshua Greene, Mike Katz](https://store.raywenderlich.com/products/ios-test-driven-development)
-- [*Test-Driven iOS Development with Swift 4* by Dr. Dominik Hauser](https://www.amazon.com/gp/product/B076PJQY34/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1)
+- [*Test-Driven iOS Development with Swift, Fourth Edition* by Dr. Dominik Hauser](https://www.packtpub.com/en-us/product/test-driven-ios-development-with-swift-9781803232485)
 - [*Testing Swift* by Paul Hudson](https://www.hackingwithswift.com/store/testing-swift)
 - [*The Case of the Crimson Test Suite* by Daniel H Steinberg](https://pragprog.com/titles/d-dscrimson/the-case-of-the-crimson-test-suite/)
 - [*iOS Unit Testing by Example* by Jon Reid](https://pragprog.com/titles/jrlegios/ios-unit-testing-by-example/)
 - [*Test-Driven Development in Swift* by Gio Lodi](https://link.springer.com/book/10.1007/979-8-8688-2637-5)
 - [*Modularizing Legacy Projects Using TDD* by Khaled El-Morabea, Hassaan El-Garem](https://link.springer.com/book/10.1007/978-1-4842-7428-6)
+- [*Pro iOS Testing* by Avi Tsadok](https://link.springer.com/book/10.1007/978-1-4842-6382-2)
 
 ## watchOS
 - [*watchOS by Tutorials* by Ehab Amer, Scott Atkinson, Soheil Azarpour, Matthew Morey, Ben Morrow, Audrey Tam, Jack Wu](https://store.raywenderlich.com/products/watchos-by-tutorials)
@@ -234,6 +249,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 ## tvOS
 - [*tvOS Apprentice* by Christine Abernathy, Jawwad Ahmad, Chris Belanger, Eric Cerney, Josh Greene, Michael Katz, Kelvin Lau, Adrian Strahan](https://store.raywenderlich.com/products/tvos-apprentice)
 - [*Developing for Apple TV using tvOS and Swift* by Gary Bennett, Brad Lees, Stefan Kaczmarek](https://www.apress.com/gp/book/9781484217146)
+- [*Hacking with tvOS* by Paul Hudson](https://www.hackingwithswift.com/store/hacking-with-tvos)
 
 ## macOS
 - [*macOS Apps Step by Step* by Sarah Reichelt](https://sarahreichelt.gumroad.com/l/oximx)
@@ -256,6 +272,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Cracking the iOS Interview* by Swift Anytime](https://www.swiftanytime.com/cracking-the-ios-interview)
 - [*The Ultimate iOS Interview Playbook* by Avi Tsadok](https://www.packtpub.com/en-us/product/the-ultimate-ios-interview-playbook-9781803246314)
 - [*The iOS Engineer Playbook* by Mike Salari](https://salari.dev/books/ios-engineer-playbook)
+- [*Swift Interview Challenges* by Paul Hudson](https://www.hackingwithswift.com/store/swift-interview-challenges)
 
 ## 🇷🇺 Russian books
 - [*Разработка приложений на Swift 5.1 и SwiftUI с нуля* - Александр Казанский](https://www.labirint.ru/books/785347/)
