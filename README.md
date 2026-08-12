@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 202 | August 12, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 203 | August 12, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -215,6 +215,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Artificial Intelligence Using Swift* by Mark Watson](https://leanpub.com/SwiftAI)
 - [*Apple Foundation Models* by Bill Morefield](https://www.kodeco.com/books/apple-foundation-models)
 - [*Apple Intelligence for Masterminds* by J.D. Gauchat](https://www.formasterminds.com/apple_intelligence_for_masterminds/)
+- [*Exploring MLX Swift* by Rudrank Riyam](https://academy.rudrank.com/product/mlx-swift)
 
 ## Metal
 - [*Metal by Tutorials* by Marius Horga, Caroline Begbie](https://www.kodeco.com/books/metal-by-tutorials/v5.0)
