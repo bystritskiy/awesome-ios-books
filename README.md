@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 201 | August 12, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 202 | August 12, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -168,6 +168,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*iOS Development at Scale* by Eric Vennaro](https://link.springer.com/book/10.1007/978-1-4842-9456-7)
 - [*Real-World iOS Development* by Avi Tsadok](https://link.springer.com/book/10.1007/979-8-8688-2815-7)
 - [*AI Driven Swift Architecture* by Walid SASSI, Dave Poirier](https://www.packtpub.com/en-fr/product/ai-driven-swift-architecture-9781835886540)
+- [*Architecture & Design Patterns for iOS* by Natascha Fadeeva](https://tanaschita.com/books/architecture-book/)
 
 ## Multithreading
 - [*Concurrency by Tutorials* by Scott Grosch](https://store.raywenderlich.com/products/concurrency-by-tutorials)
