@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 205 | August 12, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 206 | August 12, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -71,6 +71,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Hacking with iOS* by Paul Hudson](https://www.hackingwithswift.com/store/hacking-with-ios)
 - [*Advanced iOS: Volume One* by Paul Hudson](https://www.hackingwithswift.com/store/advanced-ios-1)
 - [*Everything but the Code* by Paul Hudson](https://www.hackingwithswift.com/store/everything-but-the-code)
+- [*A Best-in-Class iOS App: The Book Series* by Jordan Morgan](https://www.bestinclassiosapp.com/)
 
 ## Objective-C
 - [*Obscure Topics in Cocoa & Objective-C* by NSHipster](https://gumroad.com/l/nshipster)
