@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 204 | August 12, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 205 | August 12, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -286,6 +286,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*The Ultimate iOS Interview Playbook* by Avi Tsadok](https://www.packtpub.com/en-us/product/the-ultimate-ios-interview-playbook-9781803246314)
 - [*The iOS Engineer Playbook* by Mike Salari](https://salari.dev/books/ios-engineer-playbook)
 - [*Swift Interview Challenges* by Paul Hudson](https://www.hackingwithswift.com/store/swift-interview-challenges)
+- [*Preparing for a technical iOS job interview* by Natascha Fadeeva](https://tanaschita.com/books/interview-book/)
 
 ## 🇷🇺 Russian books
 - [*Разработка приложений на Swift 5.1 и SwiftUI с нуля* - Александр Казанский](https://www.labirint.ru/books/785347/)
