@@ -309,4 +309,10 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bystritskiy/awesome-ios-books&type=Date)](https://star-history.com/#bystritskiy/awesome-ios-books&Date)
+<a href="https://www.star-history.com/?repos=bystritskiy%2Fawesome-ios-books&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=bystritskiy/awesome-ios-books&type=date&theme=dark&legend=top-left&sealed_token=GsRWTK6xkmtOLbLvrryzqYago7HNfZjjL7bYwYnl-V8yw-uV-Plrcn2fl2OwNLcaiqIwq8ix_aDmx_7db3YLVkXfJfSY6ssiE45FEuW_PX_5d978ESa1FCdZGbVopgQeBMqqHtAhmkwgNSKxDHSAm4aXwNVUeAx1OnEzqGiQUhGuChhiUifMUh4NJB1l" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=bystritskiy/awesome-ios-books&type=date&legend=top-left&sealed_token=GsRWTK6xkmtOLbLvrryzqYago7HNfZjjL7bYwYnl-V8yw-uV-Plrcn2fl2OwNLcaiqIwq8ix_aDmx_7db3YLVkXfJfSY6ssiE45FEuW_PX_5d978ESa1FCdZGbVopgQeBMqqHtAhmkwgNSKxDHSAm4aXwNVUeAx1OnEzqGiQUhGuChhiUifMUh4NJB1l" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=bystritskiy/awesome-ios-books&type=date&legend=top-left&sealed_token=GsRWTK6xkmtOLbLvrryzqYago7HNfZjjL7bYwYnl-V8yw-uV-Plrcn2fl2OwNLcaiqIwq8ix_aDmx_7db3YLVkXfJfSY6ssiE45FEuW_PX_5d978ESa1FCdZGbVopgQeBMqqHtAhmkwgNSKxDHSAm4aXwNVUeAx1OnEzqGiQUhGuChhiUifMUh4NJB1l" />
+ </picture>
+</a>
