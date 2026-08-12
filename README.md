@@ -309,4 +309,4 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bystritskiy/awesome-ios-books&type=Date)](https://star-history.com/#bystritskiy/awesome-ios-books&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=bystritskiy/awesome-ios-books&type=Date)](https://star-history.dera.page/#bystritskiy/awesome-ios-books&Date)
