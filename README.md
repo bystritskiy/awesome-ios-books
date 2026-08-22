@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 207 | August 12, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 213 | August 22, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -72,12 +72,14 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Advanced iOS: Volume One* by Paul Hudson](https://www.hackingwithswift.com/store/advanced-ios-1)
 - [*Everything but the Code* by Paul Hudson](https://www.hackingwithswift.com/store/everything-but-the-code)
 - [*A Best-in-Class iOS App: The Book Series* by Jordan Morgan](https://www.bestinclassiosapp.com/)
+- [*Swift Recipes for iOS Developers* by Alexander Nekrasov](https://link.springer.com/book/10.1007/978-1-4842-8098-0)
 
 ## Objective-C
 - [*Obscure Topics in Cocoa & Objective-C* by NSHipster](https://gumroad.com/l/nshipster)
 - [*Objective-C for Absolute Beginners* by Gary Bennett, Mitchell Fisher, Brad Lees](https://www.amazon.com/Objective-C-Absolute-Beginners-iPhone-Programming/dp/1430236531)
 - [*Objective-C for Swift Developers* by Paul Hudson](https://www.hackingwithswift.com/store/objective-c-for-swift-developers)
 - [*Programming in Objective-C* by Stephen G. Kochan](https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
+- [*Effective Objective-C 2.0* by Matt Galloway](https://www.informit.com/store/effective-objective-c-2.0-52-specific-ways-to-improve-9780133386936)
 
 ## Swift
 - [*Swift Apprentice: Beyond the Basics* by Eli Ganim, Ehab Amer, Matt Galloway](https://www.kodeco.com/books/swift-apprentice-beyond-the-basics)
@@ -105,6 +107,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Understanding Swift* by Paul Hudson](https://www.hackingwithswift.com/store/understanding-swift)
 - [*Guide to Swift Numbers* by Flight School (Matt)](https://flightdotschool.com/books/numbers/)
 - [*Swift for Masterminds 2nd Edition* by J.D. Gauchat](https://books.apple.com/us/book/swift-for-masterminds-2nd-edition/id6795262681)
+- [*Swift: The Practical Guide* by Kerem Koseoglu](https://www.sap-press.com/swift_6111/)
 
 ## Functional Swift
 - [*RxSwift: Reactive Programming with Swift* by Florent Pillet, Junior Bontognali, Scott Gardner, Ash Furrow, Marin Todorov, Shai Mishali](https://store.raywenderlich.com/products/rxswift)
@@ -119,6 +122,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Developing Accessible iOS Apps* by Daniel Devesa Derksen-Staats](https://link.springer.com/book/10.1007/978-1-4842-5308-3)
 - [*UI Design for iOS App Development* by Bear Cahill](https://link.springer.com/book/10.1007/978-1-4842-6449-2)
 - [*Developing Inclusive Mobile Apps* by Rob Whitaker](https://link.springer.com/book/10.1007/979-8-8688-2809-6)
+- [*iOS Core Animation: Advanced Techniques* by Nick Lockwood](https://www.informit.com/store/ios-core-animation-advanced-techniques-9780133440751)
 
 ## SwiftUI
 - [*The Ultimate SwiftUI Layout Cookbook* by Karin Prater](https://learn.swiftyplace.com/ultimate-swiftui-layout-cookbook)
@@ -219,6 +223,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Apple Intelligence for Masterminds* by J.D. Gauchat](https://www.formasterminds.com/apple_intelligence_for_masterminds/)
 - [*Exploring MLX Swift* by Rudrank Riyam](https://academy.rudrank.com/product/mlx-swift)
 - [*Exploring Foundation Models Framework* by Rudrank Riyam](https://academy.rudrank.com/product/foundation-models)
+- [*Develop Intelligent iOS Apps with Swift* by Özgür Sahin](https://link.springer.com/book/10.1007/978-1-4842-6421-8)
 
 ## Metal
 - [*Metal by Tutorials* by Marius Horga, Caroline Begbie](https://www.kodeco.com/books/metal-by-tutorials/v5.0)
@@ -280,6 +285,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Server-Side Swift (Kitura Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
 - [*Server Side Swift with Vapor* by Tim Condon, Tanner Nelson, Jonas Schwartz, Logan Wright](https://store.raywenderlich.com/products/server-side-swift-with-vapor)
 - [*Server Side Swift with Kitura* by David Okun, Chris Bailey](https://store.raywenderlich.com/products/server-side-swift-with-kitura)
+- [*Serverless Swift* by Marek Sadowski, Lennart Frantzell](https://link.springer.com/book/10.1007/978-1-4842-5836-1)
 
 ## Interview
 - [*The iOS Interview Guide* by Alex Bush](https://iosinterviewguide.com/)
