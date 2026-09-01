@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 213 | August 22, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 215 | September 1, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -46,11 +46,11 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Practical Tips for Junior iOS Developers* by Aryaman Sharda](https://aryamansharda.gumroad.com/l/fjTSv)
 - [*iOS 26 Programming for Beginners* by Ahmad Sahar](https://www.packtpub.com/en-us/product/ios-26-programming-for-beginners-9781806023936)
 - [*Beginning iPhone Development with SwiftUI* by Wallace Wang](https://link.springer.com/book/10.1007/978-1-4842-9541-0)
-- [*Beginning iOS 13 Programming with Swift* by Simon Ng](https://www.appcoda.com/learnswift/)
+- [*Beginning iOS 26 Programming with Swift* by Simon Ng](https://www.appcoda.com/swift/)
 - [*iOS Apprentice* by Matthijs Hollemans, Fahim Farook](https://store.raywenderlich.com/products/swift-apprentice)
 - [*iOS 12 Programming Fundamentals with Swift* by Matt Neuburg](https://www.amazon.com/iOS-12-Programming-Fundamentals-Swift/dp/1492044555/)
 - [*iOS 13 Programming Fundamentals with Swift* by Matt Neuburg](https://www.oreilly.com/library/view/ios-13-programming/9781492074526/)
-- [*Intermediate iOS 12 Programming with Swift* by Simon Ng](https://www.appcoda.com/intermediate-swift-programming-book/)
+- [*Intermediate iOS 26 Programming with Swift* by Simon Ng](https://www.appcoda.com/intermediate-swift-programming-book/)
 - [*Programming iOS 13* by Matt Neuburg](http://shop.oreilly.com/product/0636920310075.do)
 - [*Pro iPhone Development with Swift 5* by Wallace Wang](https://www.apress.com/gp/book/9781484249437)
 - [*Obscure Topics in Objective-C, Swift, and Cocoa* by NSHipster](https://gumroad.com/l/nshipster-third-edition)
@@ -91,6 +91,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Pro Swift* by Paul Hudson](https://www.hackingwithswift.com/store/pro-swift)
 - [*Swift Protocol-Oriented Programming* by Jon Hoffman](https://www.amazon.com/Swift-Protocol-Oriented-Programming-productivity-applications-ebook/dp/B07TVB84G8)
 - [*Mastering Swift 6* by Jon Hoffman](https://www.packtpub.com/en-us/product/mastering-swift-6-9781836203698)
+- [*Mastering Swift* by Charles Edge, Joel Rennich, Jeremy Bannister](https://link.springer.com/book/10.1007/979-8-8688-2770-9)
 - [*Optimizing Collections* by Károly Lőrentey](https://www.objc.io/books/optimizing-collections/)
 - [*Hands-On Swift 5 Microservices Development* by Ralph Kuepper](https://www.packtpub.com/web-development/hands-on-swift-5-microservices-development)
 - [*Guide to Swift Strings* by Flight School (Matt)](https://flight.school/books/strings/)
@@ -131,6 +132,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*SwiftUI by Example* by Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui)
 - [*SwiftUI Apprentice* by Caroline Begbie, Audrey Tam](https://www.kodeco.com/books/swiftui-apprentice)
 - [*SwiftUI Cookbook* by Team Kodeco](https://www.kodeco.com/books/swiftui-cookbook)
+- [*SwiftUI Cookbook, Fourth Edition* by Juan C. Catalan](https://www.packtpub.com/en-us/product/swiftui-cookbook-9781806663767)
 - [*SwiftUI Charts Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/charts)
 - [*SwiftUI Essentials* by Mark Moeykens](https://www.bigmountainstudio.com/essentials)
 - [*SwiftUI Views Quick Start (FREE)* by Mark Moeykens](https://www.bigmountainstudio.com/free-swiftui-book)
