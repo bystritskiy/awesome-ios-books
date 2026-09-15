@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 218 | September 15, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 219 | September 15, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -231,6 +231,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Develop Intelligent iOS Apps with Swift* by Özgür Sahin](https://link.springer.com/book/10.1007/978-1-4842-6421-8)
 
 ## Metal
+- [*Master Photo and Video Editing with Metal* by Bogdan Redkin, Victor Yaskevich](https://link.springer.com/book/10.1007/979-8-8688-0832-6)
 - [*Metal by Tutorials* by Marius Horga, Caroline Begbie](https://www.kodeco.com/books/metal-by-tutorials/v5.0)
 - [*Apple Metal: From Fundamentals to Practice* by George Ostroborod](https://bookshelf.dev/metal-book/)
 - [*Metal Programming Guide: Tutorial and Reference via Swift* by Janie Clayton](https://www.informit.com/store/metal-programming-guide-tutorial-and-reference-via-9780134668994)
