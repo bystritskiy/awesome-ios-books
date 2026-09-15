@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 217 | September 15, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 218 | September 15, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -128,6 +128,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*iOS Core Animation: Advanced Techniques* by Nick Lockwood](https://www.informit.com/store/ios-core-animation-advanced-techniques-9780133440751)
 
 ## SwiftUI
+- [*SwiftUI Under Load* by Mike Salari](https://salari.dev/books/swiftui-under-load/)
 - [*The Ultimate SwiftUI Layout Cookbook* by Karin Prater](https://learn.swiftyplace.com/ultimate-swiftui-layout-cookbook)
 - [*Thinking in SwiftUI* by Chris Eidhof, Florian Kugler](https://www.objc.io/books/thinking-in-swiftui/)
 - [*SwiftUI by Tutorials* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/swiftui-by-tutorials)
