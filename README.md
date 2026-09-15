@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 215 | September 1, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 216 | September 15, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -43,6 +43,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 
 ## iOS
+- [*Profiling Swift Apps* by Mark Szymczyk](https://payhip.com/b/6Z4LG)
 - [*Practical Tips for Junior iOS Developers* by Aryaman Sharda](https://aryamansharda.gumroad.com/l/fjTSv)
 - [*iOS 26 Programming for Beginners* by Ahmad Sahar](https://www.packtpub.com/en-us/product/ios-26-programming-for-beginners-9781806023936)
 - [*Beginning iPhone Development with SwiftUI* by Wallace Wang](https://link.springer.com/book/10.1007/978-1-4842-9541-0)
