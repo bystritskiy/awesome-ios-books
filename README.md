@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 222 | October 22, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 223 | October 22, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -183,6 +183,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Architecture & Design Patterns for iOS* by Natascha Fadeeva](https://tanaschita.com/books/architecture-book/)
 
 ## Multithreading
+- [*Advanced Swift Concurrency Training* by Jacob Bartlett](https://payhip.com/b/7G0BW)
 - [*The Complete Swift Concurrency Toolkit* by Jacob Bartlett](https://payhip.com/b/coS4u)
 - [*Concurrency by Tutorials* by Scott Grosch](https://store.raywenderlich.com/products/concurrency-by-tutorials)
 - [*Modern Concurrency in Swift* by Marin Todorov](https://www.kodeco.com/books/modern-concurrency-in-swift/v2.0)
