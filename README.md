@@ -8,7 +8,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 
 | Awesome | Books | Last updated |
 | :-: | :-: | :-: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 223 | October 22, 2026
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | 224 | October 22, 2026
 
 ## How to Find a Book
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -298,6 +298,7 @@ The list includes beginner-friendly books, advanced references, framework-specif
 - [*Serverless Swift* by Marek Sadowski, Lennart Frantzell](https://link.springer.com/book/10.1007/978-1-4842-5836-1)
 
 ## Interview
+- [*Land Your iOS Tech Job* by Jacob Bartlett](https://payhip.com/b/tvoug)
 - [*The iOS Interview Guide* by Alex Bush](https://iosinterviewguide.com/)
 - [*Ace the iOS Interview Release* by Aryaman Sharda](https://aryamansharda.gumroad.com/l/tcvck)
 - [*Cracking the iOS Interview* by Swift Anytime](https://www.swiftanytime.com/cracking-the-ios-interview)
